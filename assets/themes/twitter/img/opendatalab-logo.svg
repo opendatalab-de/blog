@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" style="width:100px;height:100px;" version="1.1" viewBox="0 0 2476 986" preserveAspectRatio="xMinYMin meet">
+	<style type="text/css">
+		.paper1 {
+		fill: #2091CF;
+		}
+		.paper2 {
+		fill: #68BC31;
+		}
+		.paper3 {
+		fill: #FEE074;
+		}
+		.paper4 {
+		fill: #DA5430;
+		}
+		.paper5 {
+		fill: #AF4E96;
+		}
+	</style>
+	<polygon class="paper5" points="1420 982 1372 900 1672 134 1768 114 2466 740 1420 982" />
+	<polygon class="paper4" points="964 938 958 840 1580 135 1668 128 2174 808 964 938" />
+	<polygon class="paper3" points="584 836 596 778 1304 132 1612 136 1816 858 584 836" />
+	<polygon class="paper2" points="154 704 224 618 1284 126 1524 146 1286 884 154 704" />
+	<polygon class="paper1" points="0 546 812 42 1470 160 926 834 0 546" />
+</svg>
