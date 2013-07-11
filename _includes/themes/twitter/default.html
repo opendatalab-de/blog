@@ -28,7 +28,7 @@
 <link href="{{ BASE_PATH }}{{ site.JB.rss_path }}" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
 </head>
 <body>
-	<div class="container-narrow">
+	<div class="container">
 		<div class="pull-right nav">
 			<div class="btn-group">
 				<a class="btn btn-info">Blog</a>
@@ -42,8 +42,14 @@
 			OpenDataLab
 		</span>
 		
-		
-		<div class="content">{{ content }}</div>
+		<div class="row-fluid">
+			<div class="span9">
+				{{ content }}
+			</div>
+			<div class="span3">
+			
+			</div>
+		</div>
 		
 		<hr>
 		<footer>
