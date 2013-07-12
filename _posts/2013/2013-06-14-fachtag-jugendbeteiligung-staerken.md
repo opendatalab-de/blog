@@ -5,6 +5,7 @@ layout: post
 category : argufactum
 tags : [vortrag, barcamp]
 author: felix
+snapshot: potsdam-argufactum.jpg
 ---
 
 Wie kann man die Beteiligung Jugendlicher an politischen Entscheidungen stärken? Auf dem Fachtag und Barcamp "Jugendbeteiligung stärken" im Medienzentrum Babelsberg in Potsdam wurde dieser Frage nachgegangen. Eine perfekte Gelegenheit, um Argufactum vorzustellen.
