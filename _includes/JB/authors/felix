@@ -4,15 +4,21 @@
 		<a href="http://felixebert.de" rel="author" itemprop="url" class="author-name">Felix Ebert</a>
 	</div>
 	<p>
-		Web developer<br />
-		Neckarsulm, Germany
+		Web developer
 	</p>
 	<p>
+		Neckarsulm, Germany<br />
 		felix.ebert@if-core.de
 	</p>
-</div>
-<div class="social-icons">
-	<a href="https://github.com/felixebert"><i class="icon-github"></i></a>
-	<a href="https://twitter.com/femeb"><i class="icon-twitter"></i></a>
-	<a href="https://plus.google.com/118113541594905940051"><i class="icon-google-plus"></i></a>
+	<p class="social-icons">
+		<a href="https://github.com/felixebert">
+			<img src="{{ BASE_PATH }}/assets/octocat.svg" title="GitHub Profile" />
+		</a>
+		<a href="https://twitter.com/femeb">
+			<img src="{{ BASE_PATH }}/assets/twitter.svg" title="Twitter Profile" />
+		</a>
+		<a href="https://plus.google.com/118113541594905940051">
+			<img src="{{ BASE_PATH }}/assets/googleplus.svg" title="Google+ Profile" />
+		</a>
+	</p>
 </div>

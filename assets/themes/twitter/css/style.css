@@ -25,20 +25,22 @@ h1,
 .author {
 	clear: left;
 	margin-bottom: 2em;
+	font-size: 13px;
 }
 .author-img {
 	float: left;
 	margin-right: 7px;
 }
 .social-icons {
-	margin-top: 10px;
+	line-height: 24px;
 }
 .social-icons a:hover {
 	text-decoration: none;
 }
-.social-icons i {
-	font-size: 24px;
-	margin-right: 4px;
+.social-icons img {
+	height: 20px;
+	display: inline;
+	margin-right: 7px;
 }
 
 /* posts index */
