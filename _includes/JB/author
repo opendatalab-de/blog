@@ -1,6 +1,8 @@
-{% case page.author %}
-	{% when "adrian" %}
-	  {% include JB/authors/adrian %}
-	{% when "felix" %}
-	  {% include JB/authors/felix %}
-{% endcase %}
+<div class="author" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+	{% case page.author %}
+		{% when "adrian" %}
+		  {% include JB/authors/adrian %}
+		{% when "felix" %}
+		  {% include JB/authors/felix %}
+	{% endcase %}
+</div>

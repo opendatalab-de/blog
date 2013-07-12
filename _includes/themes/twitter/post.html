@@ -1,7 +1,7 @@
-<div class="row-fluid">
+<div class="row-fluid" itemscope="" itemtype="http://schema.org/BlogPosting">
 	<div class="span9">
 		<div class="page-header">
-			<h1>
+			<h1 itemprop="name headline">
 		  		{{ page.title }}
 		  		{% if page.tagline %}
 		  			<br />
@@ -11,9 +11,9 @@
 		</div>
 		
 		<div class="date">
-			<span>{{ page.date | date_to_long_string }}</span>
+			<time datetime="{{ page.date | date: "%Y-%m-%dT%H:%M:%S" }}" itemprop="datePublished">{{ page.date | date_to_long_string }}</time>
 		</div>
-		<div class="content">
+		<div class="content" itemprop="articleBody">
 			{{ content }}
 		</div>
 		
@@ -36,7 +36,7 @@
 	</div>
 	<div class="span3">
 		{% include JB/author %}
-	
+		
 		{% unless page.categories == empty %}
 		  <ul class="tag_box inline">
 		    <li><i class="icon-folder-open"></i></li>

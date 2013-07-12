@@ -21,6 +21,26 @@ h1,
 	margin: 10px 7px 0 0;
 }
 
+/* sidebar */
+.author {
+	clear: left;
+	margin-bottom: 2em;
+}
+.author-img {
+	float: left;
+	margin-right: 7px;
+}
+.social-icons {
+	margin-top: 10px;
+}
+.social-icons a:hover {
+	text-decoration: none;
+}
+.social-icons i {
+	font-size: 24px;
+	margin-right: 4px;
+}
+
 /* posts index */
 .post>h3.title {
 	position: relative;

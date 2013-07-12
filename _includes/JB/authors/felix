@@ -1,1 +1,18 @@
-<img src="{{ BASE_PATH }}/assets/potsdam-argufactum.jpg" alt="test" />
+<div class="clearfix">
+	<img src="{{ BASE_PATH }}/assets/felixebert.png" alt="Felix Ebert" class="author-img" />
+	<div itemprop="name">
+		<a href="http://felixebert.de" rel="author" itemprop="url" class="author-name">Felix Ebert</a>
+	</div>
+	<p>
+		Web developer<br />
+		Neckarsulm, Germany
+	</p>
+	<p>
+		felix.ebert@if-core.de
+	</p>
+</div>
+<div class="social-icons">
+	<a href="https://github.com/felixebert"><i class="icon-github"></i></a>
+	<a href="https://twitter.com/femeb"><i class="icon-twitter"></i></a>
+	<a href="https://plus.google.com/118113541594905940051"><i class="icon-google-plus"></i></a>
+</div>
