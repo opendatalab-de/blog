@@ -1,14 +1,14 @@
 <div class="clearfix">
 	<img src="{{ BASE_PATH }}/assets/felixebert-q.jpg" alt="Felix Ebert" class="author-img" />
-	<div itemprop="name">
-		<a href="http://felixebert.de" rel="author" itemprop="url" class="author-name">Felix Ebert</a>
-	</div>
 	<p>
+		<strong itemprop="name">
+			<a href="http://felixebert.de" rel="author" itemprop="url" class="author-name">Felix Ebert</a>
+		</strong><br />
 		Web developer
 	</p>
 	<p>
 		Neckarsulm, Germany<br />
-		<a href="mailto:felix@opendatalab.de">felix@opendatalab.de</a>
+		felix.ebert<!--nospam@blockscanners123988.de-->&#64;if-core.de
 	</p>
 	<p class="social-icons">
 		<a href="https://github.com/felixebert">

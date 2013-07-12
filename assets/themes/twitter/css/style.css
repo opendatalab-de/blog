@@ -28,6 +28,9 @@ h1,
 	font-size: 11px;
 	line-height: 15px;
 }
+.author a {
+	color: #000000;
+}
 .author-img {
 	float: left;
 	margin-right: 7px;
