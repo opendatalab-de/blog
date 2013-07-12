@@ -25,11 +25,13 @@ h1,
 .author {
 	clear: left;
 	margin-bottom: 2em;
-	font-size: 13px;
+	font-size: 11px;
+	line-height: 15px;
 }
 .author-img {
 	float: left;
 	margin-right: 7px;
+	max-height: 105px;
 }
 .social-icons {
 	line-height: 24px;
@@ -38,9 +40,9 @@ h1,
 	text-decoration: none;
 }
 .social-icons img {
-	height: 20px;
+	height: 18px;
 	display: inline;
-	margin-right: 7px;
+	margin-right: 3px;
 }
 
 /* posts index */
