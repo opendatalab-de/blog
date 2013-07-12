@@ -1,15 +1,15 @@
 ---
 title: "Fachtag Jugendbeteiligung Stärken"
+tagline: "Potsdam, Medienzentrum Babelsberg"
 layout: post
 category : argufactum
-tagline: "Potsdam, Medienzentrum Babelsberg"
 tags : [vortrag, barcamp]
-author: "Felix Ebert"
+author: felix
 ---
 
 Wie kann man die Beteiligung Jugendlicher an politischen Entscheidungen stärken? Auf dem Fachtag und Barcamp "Jugendbeteiligung stärken" im Medienzentrum Babelsberg in Potsdam wurde dieser Frage nachgegangen. Eine perfekte Gelegenheit, um Argufactum vorzustellen.
 
-![Barcamp-Session Argufactum](https://pbs.twimg.com/media/BMpmZsVCQAAdI1s.jpg:large "Barcamp-Session Argufactum")
+![Barcamp-Session Argufactum]({{ BASE_PATH }}/assets/potsdam-argufactum.jpg "Barcamp-Session Argufactum")
 
 In einer 45-minütigen Barcamp-Session habe ich vorgestellt, wie mit Argufactum und Open Data ein leichter Einstieg in komplexe Themen geschaffen werden kann. Die Teilnehmer, vorallem Medienpädagogen, waren von Argufactum direkt begeistert ("finden wir klasse!") und begannen gleich zu überlegen, wo sie Argufactum konkret einsetzen könnten. Ein Teilnehmer überlegte zum Beispiel laut, die interaktive Waage von Argufactum nach Pfadfinder-Ausflügen einzusetzen, um herauszufinden, was den Pfadfindern am besten gefallen hat.
 

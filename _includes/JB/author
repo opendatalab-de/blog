@@ -1,4 +1,6 @@
-{% if site.JB.comments.provider and page.comments != false %}
-
-
-{% endif %}
+{% case page.author %}
+	{% when "adrian" %}
+	  {% include JB/authors/adrian %}
+	{% when "felix" %}
+	  {% include JB/authors/felix %}
+{% endcase %}
