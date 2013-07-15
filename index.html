@@ -50,9 +50,9 @@ layout: page
 	  {% if forloop.last %}
 	    </ul>
 	  {% else %}
-	    {% if this_year != next_year || this_month != next_month %}
+	    {% if this_month != next_month %}
 	      </ul>
-	      <strong>{{this_month}}{{this_year}}</strong>
+	      <p><strong>{{next_month}} {{next_year}}</strong></p>
 	      <ul class="unstyled">
 	    {% endif %}
 	  {% endif %}
