@@ -39,6 +39,10 @@ h2.first {
 /* sidebar */
 .sidebar {
 	padding-top: 16px;
+	font-size: 13px;
+	line-height: 17px;
+}
+.sidebar small {
 	font-size: 11px;
 	line-height: 15px;
 }

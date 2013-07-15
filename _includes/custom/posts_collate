@@ -1,0 +1,23 @@
+{% for post in site.posts  %}
+  {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+  {% capture this_month %}{{ post.date | date: "%B" }}{% endcapture %}
+  {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
+  {% capture next_month %}{{ post.previous.date | date: "%B" }}{% endcapture %}
+
+  {% if forloop.first %}
+    <p><strong>{{this_month}} {{this_year}}</strong></p>
+    <ul class="unstyled">
+  {% endif %}
+
+  <li>&raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+
+  {% if forloop.last %}
+    </ul>
+  {% else %}
+    {% if this_month != next_month %}
+      </ul>
+      <p><strong>{{next_month}} {{next_year}}</strong></p>
+      <ul class="unstyled">
+    {% endif %}
+  {% endif %}
+{% endfor %}
