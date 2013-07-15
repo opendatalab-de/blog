@@ -21,4 +21,4 @@ Weiterführende Informationen:
 * [Liste der Projekte des Energyhackdays](http://de.okfnpad.org/energyhack)
 * [Quellcode der Visualisierung auf GitHub](https://github.com/felixebert/energyhack)
 
-![Screenshot der Visualisierung](/assets/energyhackday.png "Live-Visualisierung der Verbrauchsdaten der Berliner Bezirke")
+[![Screenshot der Visualisierung](/assets/energyhackday.png "Live-Visualisierung der Verbrauchsdaten der Berliner Bezirke")](http://felixebert.de/energyhackday)
