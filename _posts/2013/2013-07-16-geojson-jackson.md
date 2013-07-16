@@ -1,6 +1,6 @@
 ---
 title: GeoJson POJOs for Jackson
-tagline: Library for parsing and writing GeoJson
+tagline: Parse and write GeoJson from Java
 layout: post
 category : hack
 tags : [opensource, geojson, english]
