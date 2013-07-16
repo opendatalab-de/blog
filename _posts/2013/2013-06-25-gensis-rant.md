@@ -10,8 +10,3 @@ snapshot: rant.jpg
 
 Genesis...
 
-{% highlight ruby %}
-def foo
-  puts 'foo'
-end
-{% endhighlight %}
