@@ -1,9 +1,9 @@
 ---
-title: "GeoJson POJOs for Jackson"
-tagline: "Library for parsing and writing GeoJson"
+title: GeoJson POJOs for Jackson
+tagline: Library for parsing and writing GeoJson
 layout: post
 category : hack
-tags : [opensource, geojson]
+tags : [opensource, geojson, english]
 author: adrian
 repository: https://github.com/opendatalab-de/geojson-jackson
 snapshot: geojson-jackson.jpg

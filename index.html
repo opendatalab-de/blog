@@ -8,7 +8,8 @@ layout: page
     {% for post in site.posts limit:3 %}
       <section>
         <h2{% if forloop.first %} class="first"{% endif %}>
-          <a href="{{ post.url }}">{{ post.title }}</a>
+          <a href="{{ post.url }}">{{ post.title }}</a><br/>
+		  <small><time datetime="{{ post.date | date: "%Y-%m-%dT%H:%M:%S" }}">{{ post.date | date_to_long_string }}</time></small>
         </h2>
         
         {% if post.snapshot %}
@@ -30,8 +31,11 @@ layout: page
   </div>
   <div class="span3 sidebar">
   	<p><strong>Über diesen Blog</strong></p>
-  	<p>OpenDataLab.de ist ein Blog von Adrian Stabiszewski und Felix Ebert. Wir sind zwei Softwareentwicklern aus dem Raum Heilbronn (bei Stuttgart) und bloggen hier über unsere aktuellen Projekte, Ideen und Events.</p>
-  	<p>Unser Hauptthemen sind OpenData, OpenStreetMap, Bürgerbeteiligung, NFC, OpenSource und die Hackerszene in Heilbronn.</p>
+  	<p>OpenDataLab.de ist ein Blog von Adrian Stabiszewski und Felix Ebert. 
+  	Wir sind zwei Softwareentwickler aus dem Raum Heilbronn (bei Stuttgart) und bloggen hier über unsere 
+  	aktuellen Projekte, Ideen und Events.</p>
+  	<p>Unser Hauptthemen sind OpenData, OpenStreetMap, Bürgerbeteiligung, NFC, 
+  	OpenSource und die Hackerszene in Heilbronn.</p>
   	<br />
   
 	{% include JB/posts_collate %}
