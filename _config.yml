@@ -102,3 +102,8 @@ JB :
   
   posts_collate :
     provider : custom
+    
+analytics :
+  provider : google
+  google : 
+      tracking_id : 'UA-42499721-1'

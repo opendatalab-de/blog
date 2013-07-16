@@ -1,0 +1,7 @@
+<div class="project-refs">
+	{% if page.repository contains 'github' %}
+		<a href="{{page.repository}}">
+			<img src="{{ BASE_PATH }}/assets/octocat.svg" title="Projektseite" style="width:50%" />
+		</a>
+	{% endif %}
+</div>
