@@ -1,0 +1,50 @@
+---
+title: GeoJson POJOs for Jackson
+tagline: Library for parsing and writing GeoJson
+layout: post
+category : hack
+tags : [opensource, geojson, english]
+author: adrian
+repository: https://github.com/opendatalab-de/geojson-jackson
+snapshot: geojson-jackson.jpg
+---
+
+As a result of our latest project I've extracted a small set of Java Objects that can easily be serialized 
+and deserialized into GeoJson files using the Jackson JSON parser library. The java objects are quite 
+optimized and use the Jackson annotations to identify the different types of GeoJson objects. 
+This way you can save the "type" property within every object. The Jackson parser will automatically 
+insert the type property based on the Java class name.
+Without the GeoJson POJOs you would have to let Jackson parse the contents of a geojson file 
+into HashMaps with I previously did like this:
+
+	Map<String, Object> map = new ObjectMapper().readValue(inputStream,
+	MapType.construct(HashMap.class, SimpleType.construct(String.class),
+	SimpleType.construct(Object.class)));
+
+After this you have to typecast every property and dive from HashMap into HashMap. 
+Using the above library it is much easier. If you know what kind of data you expect from a 
+geojson file you can directly parse the data:
+
+	FeatureCollection featureCollection = 
+	new ObjectMapper().readValue(inputStream, FeatureCollection.class);
+
+Otherwise you can read a GeoJsonObject and decide the type using instanceOf checks:
+
+	GeoJsonObject object = new ObjectMapper().readValue(inputStream, GeoJsonObject.class);
+	if (object instanceOf Polygon) {
+		...
+	} else if (object instanceOf Feature) {
+		...
+	}
+
+This library is available for download at maven central:
+
+	<dependency>
+		<groupId>de.grundid.opendatalab</groupId>
+		<artifactId>geojson-jackson</artifactId>
+		<version>1.0</version>
+	</dependency>
+
+
+If you want to contribute to this library please have a look at our GitHub repository:
+[github.com/opendatalab-de/geojson-jackson](https://github.com/opendatalab-de/geojson-jackson)
