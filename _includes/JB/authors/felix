@@ -17,7 +17,7 @@
 		<a href="https://twitter.com/femeb">
 			<img src="{{ BASE_PATH }}/assets/twitter.svg" title="Twitter Profile" />
 		</a>
-		<a href="https://plus.google.com/118113541594905940051">
+		<a href="https://plus.google.com/118113541594905940051?rel=author">
 			<img src="{{ BASE_PATH }}/assets/googleplus.svg" title="Google+ Profile" />
 		</a>
 	</p>
