@@ -14,14 +14,16 @@ and deserialized into GeoJson files using the Jackson JSON parser library. The j
 optimized and use the Jackson annotations to identify the different types of GeoJson objects. 
 This way you can save the "type" property within every object. The Jackson parser will automatically 
 insert the type property based on the Java class name.
+
 Without the GeoJson POJOs you would have to let Jackson parse the contents of a geojson file 
-into HashMaps with I previously did like this:
+into HashMaps which I previously did like this:
 
 	Map<String, Object> map = new ObjectMapper().readValue(inputStream,
 	MapType.construct(HashMap.class, SimpleType.construct(String.class),
 	SimpleType.construct(Object.class)));
 
 After this you have to typecast every property and dive from HashMap into HashMap. 
+
 Using the above library it is much easier. If you know what kind of data you expect from a 
 geojson file you can directly parse the data:
 
@@ -37,7 +39,11 @@ Otherwise you can read a GeoJsonObject and decide the type using instanceOf chec
 		...
 	}
 
-This library is available for download at maven central:
+For more examples, please have a look at 
+the [tests](https://github.com/opendatalab-de/geojson-jackson/tree/master/src/test/java/org/geojson/jackson) 
+in the project repository. 
+
+This library is available for download at Maven Central:
 
 	<dependency>
 		<groupId>de.grundid.opendatalab</groupId>
@@ -46,5 +52,5 @@ This library is available for download at maven central:
 	</dependency>
 
 
-If you want to contribute to this library please have a look at our GitHub repository:
+If you want to contribute to this library, please check our GitHub repository:
 [github.com/opendatalab-de/geojson-jackson](https://github.com/opendatalab-de/geojson-jackson)
