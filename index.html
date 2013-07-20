@@ -1,5 +1,8 @@
 ---
 layout: page
+title: OpenDataLab Blog
+description: Blog über OpenData, OpenStreetMap, Bürgerbeteiligung, NFC, OpenSource und die Hackerszene in Heilbronn
+hideTitle: true
 ---
 {% include JB/setup %}
 
@@ -8,9 +11,9 @@ layout: page
     {% for post in site.posts limit:3 %}
       <section>
         <h2{% if forloop.first %} class="first"{% endif %}>
-          <a href="{{ post.url }}">{{ post.title }}</a><br/>
-		  <small><time datetime="{{ post.date | date: "%Y-%m-%dT%H:%M:%S" }}">{{ post.date | date_to_long_string }}</time></small>
+          <a href="{{ post.url }}">{{ post.title }}</a>
         </h2>
+		<small><time datetime="{{ post.date | date: "%Y-%m-%dT%H:%M:%S" }}">{{ post.date | date_to_long_string }}</time></small>
         
         {% if post.snapshot %}
           <p class="snapshot">

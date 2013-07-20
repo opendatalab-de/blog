@@ -17,7 +17,7 @@
 		<a href="https://twitter.com/nitegate">
 			<img src="{{ BASE_PATH }}/assets/twitter.svg" title="Twitter Profile" />
 		</a>
-		<a href="https://plus.google.com/104853427339662862228">
+		<a href="https://plus.google.com/104853427339662862228?rel=author">
 			<img src="{{ BASE_PATH }}/assets/googleplus.svg" title="Google+ Profile" />
 		</a>
 	</p>
