@@ -1,5 +1,6 @@
 ---
 title: "Fachtag Jugendbeteiligung Stärken"
+description: "Bericht über die Barcamp-Session Argufactum - einem Werkzeug für Bürgerentscheide"
 tagline: "Potsdam, Medienzentrum Babelsberg"
 layout: post
 category : argufactum

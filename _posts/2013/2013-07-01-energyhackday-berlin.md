@@ -1,5 +1,6 @@
 ---
 title: "Live-Visualisierung der Berliner Energiedaten"
+description: "Interaktive Karte der Berliner Bezirke, auf der im Abstand von 15-Minuten der Energieverbrauch live eingesehen werden kann"
 tagline: "Berlin, Energyhackday"
 layout: post
 category : hack

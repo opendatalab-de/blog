@@ -1,5 +1,6 @@
 ---
 title: "Visualisierung der Regionalstatistikdaten"
+description: "Vergleich von Gewerbesteuerzahlen, Hebesätzen, Verkehrsunfallzahlen, Tourismuszahlen, Trinkwasserkosten und mehr am Beispiel vom Landkreis Heilbronn"
 tagline: "am Beispiel von Heilbronn"
 layout: post
 category : hack
