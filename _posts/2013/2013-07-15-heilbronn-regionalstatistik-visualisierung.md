@@ -17,4 +17,4 @@ Weiterführende Informationen:
 * [Datenquelle regionalstatistik.de](https://www.regionalstatistik.de/genesis/online/logon)
 * [Quellcode der Visualisierung auf GitHub](https://github.com/opendatalab-de/gemeinde-api-mockup)
 
-[![Screenshot der Visualisierung](/assets/heilbronn-regionalstatistik.png "Visualisierung der Regionalstatistikdaten")](http://felixebert.de/heilbronn-api)
+{% include JB/snapshot %}
