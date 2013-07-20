@@ -8,11 +8,7 @@ pygments: true
 title : OpenDataLab Blog
 tagline: Offene Daten und Software Hacking
 author :
-  name : 
-  email : 
-  github : 
-  twitter : 
-  feedburner : 
+  name : OpenDataLab
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 

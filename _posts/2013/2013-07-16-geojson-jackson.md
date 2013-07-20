@@ -1,5 +1,6 @@
 ---
 title: GeoJson POJOs for Jackson
+description: Java-Library for parsing and writing GeoJson using Jackson annotations
 tagline: Library for parsing and writing GeoJson
 layout: post
 category : hack
