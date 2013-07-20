@@ -1,9 +1,7 @@
 <div class="clearfix">
 	<img src="{{ BASE_PATH }}/assets/as-q.jpg" class="author-img" />
 	<p>
-		<strong itemprop="name">
-			Adrian Stabiszewski
-		</strong><br />
+		<strong itemprop="name">Adrian Stabiszewski</strong><br />
 		Web developer
 	</p>
 	<p>

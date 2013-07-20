@@ -1,9 +1,7 @@
 <div class="clearfix">
 	<img src="{{ BASE_PATH }}/assets/felixebert-q.jpg" alt="Felix Ebert" class="author-img" />
 	<p>
-		<strong itemprop="name">
-			<a href="http://felixebert.de" rel="author" itemprop="url" class="author-name">Felix Ebert</a>
-		</strong><br />
+		<strong itemprop="name">Felix Ebert</strong><br />
 		Web developer
 	</p>
 	<p>
