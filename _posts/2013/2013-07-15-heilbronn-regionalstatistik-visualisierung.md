@@ -7,14 +7,11 @@ category : hack
 tags : [heilbronn, regionalstatistik, genesis]
 author: felix
 snapshot: heilbronn-regionalstatistik.png
+repository: https://github.com/opendatalab-de/gemeinde-api-mockup
 ---
 
-Am Beispiel vom Landkreis Heilbronn haben wir zahlreiche Daten [visualisiert](http://felixebert.de/heilbronn-api), die unter regionalstatistik.de für alle Gemeinden in Deutschland als offene Datensätze zur Verfügung stehen.
+Am Beispiel vom Landkreis Heilbronn haben wir zahlreiche Daten [visualisiert](http://opendatalab.de/heilbronn-regionalstatistik), die unter [regionalstatistik.de](https://www.regionalstatistik.de/genesis/online/logon) für alle Gemeinden in Deutschland als offene Datensätze zur Verfügung stehen.
 
-So können unter anderem die Gewerbesteuerzahlen, die Hebesätze, Verkehrsunfallzahlen, Tourismuszahlen und Trinkwasserkosten kompakt verglichen werden.
+So können unter anderem die Gewerbesteuerzahlen, die Hebesätze, Verkehrsunfallzahlen, Tourismuszahlen und Trinkwasserkosten im Landkreis Heilbronn kompakt verglichen werden.
 
-Weiterführende Informationen:
-* [Datenquelle regionalstatistik.de](https://www.regionalstatistik.de/genesis/online/logon)
-* [Quellcode der Visualisierung auf GitHub](https://github.com/opendatalab-de/gemeinde-api-mockup)
-
-{% include JB/snapshot %}
+<iframe src="http://opendatalab.de/heilbronn-regionalstatistik/?valueType=gewerbesteuereinnahmen&relation=" width="100%" height="500"> </iframe>
