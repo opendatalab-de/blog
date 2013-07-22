@@ -30,4 +30,6 @@ Diese Geodaten haben wir mit folgendem Befehl in eine .geojson Datei umgewandelt
 
 Anschließend haben wir diese GeoJSON Datei auf den Landkreis Heilbronn anhand der Regionalschlüsselnummer reduziert.
 
-Da die Stadt Heilbronn nicht im Shapefile aller Gemeinden enthalten ist, haben wir zusätzlich die Landkreis-Geodaten (vg250_krs) per ogr2ogr umgeandelt und die Stadt Heilbronn manuell in die GeoJSON-Datei der Gemeinden eingefügt. 
+Da die Stadt Heilbronn nicht im Shapefile aller Gemeinden enthalten ist, haben wir zusätzlich die Landkreis-Geodaten (vg250_krs) per ogr2ogr umgewandelt und die Stadt Heilbronn manuell in die GeoJSON-Datei der Gemeinden eingefügt. 
+
+Die Daten der heruntergeladenen CSV-Dateien von regionalstatistik.de haben wir in die GeoJSON-Datei integriert, so dass die Zuordnung der Daten zum Polygon auf der Karte sehr einfach möglich ist. Die entstandene Datei könnt ihr euch auf [GitHub](https://github.com/opendatalab-de/gemeinde-api-mockup/tree/master/viewer/src/data) anschauen.

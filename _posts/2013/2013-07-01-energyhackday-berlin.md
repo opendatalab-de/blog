@@ -7,6 +7,7 @@ category : hack
 tags : [hackday, energy]
 author: felix
 snapshot: energyhackday.png
+repository: https://github.com/felixebert/energyhack
 ---
 
 Auf dem [Energyhackday in Berlin](http://energyhack.de/) habe ich zusammen mit [Michael Hörz](http://www.michael-hoerz.de/) eine [Visualisierung der Verbrauchsdaten der Berliner Bezirke](http://felixebert.de/energyhackday) entwickelt.
@@ -22,4 +23,3 @@ Weiterführende Informationen:
 * [Review des Energyhackdays](http://okfn.de/2013/06/review-energy-hack-kreative-hacks-fur-die-energie-der-zukunft/) im [Open Knowledge Foundation Blog](http://okfn.de/blog/) - unter anderem mit dem Gewinner-Projekt Yoda, der seine Schüler vor zu hohem Stromverbrauch warnt: „Consuming this much energy leads you to the dark side“.
 * [Sammlung an Datenquellen rund um das Thema Energie](http://de.okfnpad.org/energyhackdata), die am Energyhackday zur Verfügung standen
 * [Liste der Projekte des Energyhackdays](http://de.okfnpad.org/energyhack)
-* [Quellcode der Visualisierung auf GitHub](https://github.com/felixebert/energyhack)
