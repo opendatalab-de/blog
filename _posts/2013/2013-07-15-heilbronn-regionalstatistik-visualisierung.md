@@ -14,4 +14,4 @@ Am Beispiel vom Landkreis Heilbronn haben wir zahlreiche Daten [visualisiert](ht
 
 So können unter anderem die Gewerbesteuerzahlen, die Hebesätze, Verkehrsunfallzahlen, Tourismuszahlen und Trinkwasserkosten im Landkreis Heilbronn kompakt verglichen werden.
 
-<iframe src="http://opendatalab.de/heilbronn-regionalstatistik/?valueType=gewerbesteuereinnahmen&relation=" width="100%" height="500"> </iframe>
+<iframe src="http://opendatalab.de/heilbronn-regionalstatistik" width="100%" height="500"> </iframe>
