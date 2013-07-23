@@ -19,6 +19,8 @@ Dort kamen immer wieder Fragen nach einem Vergleich mit anderen Gemeinden im Lan
 
 <iframe src="http://opendatalab.de/heilbronn-regionalstatistik" width="100%" height="500"> </iframe>
 
+[Fullscreen](http://opendatalab.de/heilbronn-regionalstatistik)
+
 ### Wie wurde die Visualisierung erstellt?
 
 #### Flächen-Polygone
@@ -44,5 +46,5 @@ Für ein einfaches Beispiel haben wir uns daher vorerst auf den Landkreis Heilbr
 Zudem haben wir einzelne Datensätze wie zum Beispiel die Pendlerzahlen vorerst nicht in dieses Beispiel integriert, da diese verhältnismäßig umständlich maschinenlesbar zu erfassen waren.
 
 Mit einem [Java-Converter](https://github.com/opendatalab-de/gemeinde-api-mockup/tree/master/gemeinde-api-mockup) haben wir die heruntergeladenen CSV-Dateien von regionalstatistik.de in die GeoJSON-Datei integriert, so dass die Zuordnung der Daten zum Polygon auf der Karte sehr einfach möglich ist.
-Die [entstandene Datei](https://raw.github.com/opendatalab-de/gemeinde-api-mockup/master/viewer/src/data/heilbronn-rs.geojson) könnt ihr euch auf GitHub anschauen.
+Die [entstandene Datei](https://raw.github.com/opendatalab-de/gemeinde-api-mockup/master/viewer/src/data/heilbronn-rs.geojson) könnt ihr auf GitHub herunterladen.
 
