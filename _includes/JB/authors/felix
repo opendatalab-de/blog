@@ -1,22 +1,8 @@
-<div class="clearfix">
-	<img src="{{ BASE_PATH }}/assets/felixebert-q.jpg" alt="Felix Ebert" class="author-img" />
-	<p>
-		<strong itemprop="name">Felix Ebert</strong><br />
-		Web developer
-	</p>
-	<p>
-		Neckarsulm, Germany<br />
-		felix.ebert<!--nospam@blockscanners123988.de-->&#64;if-core.de
-	</p>
-	<p class="social-icons">
-		<a href="https://github.com/felixebert">
-			<img src="{{ BASE_PATH }}/assets/octocat.svg" title="GitHub Profile" />
-		</a>
-		<a href="https://twitter.com/femeb">
-			<img src="{{ BASE_PATH }}/assets/twitter.svg" title="Twitter Profile" />
-		</a>
-		<a href="https://plus.google.com/118113541594905940051?rel=author">
-			<img src="{{ BASE_PATH }}/assets/googleplus.svg" title="Google+ Profile" />
-		</a>
-	</p>
-</div>
+{% assign authorName = "Felix Ebert" %}
+{% assign authorAvatar = "felixebert-q.jpg" %}
+{% assign authorPosition = "Web developer" %}
+{% assign authorHome = "Neckarsulm, Germany" %}
+{% assign authorMail = "felix.ebert<!--nospam@blockscanners123988.de-->&#64;if-core.de" %}
+{% assign authorTwitter = "https://twitter.com/femeb" %}
+{% assign authorGithub = "https://github.com/felixebert" %}
+{% assign authorGPlus = "https://plus.google.com/118113541594905940051?rel=author" %}

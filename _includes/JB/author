@@ -1,8 +1,31 @@
+{% case page.author %}
+	{% when "adrian" %}
+	  {% include JB/authors/adrian %}
+	{% when "felix" %}
+	  {% include JB/authors/felix %}
+{% endcase %}
 <div class="author" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
-	{% case page.author %}
-		{% when "adrian" %}
-		  {% include JB/authors/adrian %}
-		{% when "felix" %}
-		  {% include JB/authors/felix %}
-	{% endcase %}
+	<div class="clearfix">
+		<img src="{{ BASE_PATH }}/assets/{{ authorAvatar }}" class="author-img" />
+		<p>
+			<strong itemprop="name">{{ authorName }}</strong><br />
+			{{ authorPosition }}		
+		</p>
+		<p>
+			{{ authorHome }}<br />
+			{{ authorMail }}
+		</p>
+		<p class="social-icons">
+			<a href="{{ authorGithub }}">
+				<img src="{{ BASE_PATH }}/assets/octocat.svg" title="GitHub Profile" />
+			</a>
+			<a href="{{ authorTwitter }}">
+				<img src="{{ BASE_PATH }}/assets/twitter.svg" title="Twitter Profile" />
+			</a>
+			<a href="{{ authorGPlus }}">
+				<img src="{{ BASE_PATH }}/assets/googleplus.svg" title="Google+ Profile" />
+			</a>
+		</p>
+	</div>
 </div>
+	

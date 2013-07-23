@@ -1,22 +1,8 @@
-<div class="clearfix">
-	<img src="{{ BASE_PATH }}/assets/as-q.jpg" class="author-img" />
-	<p>
-		<strong itemprop="name">Adrian Stabiszewski</strong><br />
-		Web developer
-	</p>
-	<p>
-		Untergruppenbach, Germany<br />
-		as<!--nospam@blockscanners123988.de-->&#64;grundid.de
-	</p>
-	<p class="social-icons">
-		<a href="https://github.com/grundid">
-			<img src="{{ BASE_PATH }}/assets/octocat.svg" title="GitHub Profile" />
-		</a>
-		<a href="https://twitter.com/nitegate">
-			<img src="{{ BASE_PATH }}/assets/twitter.svg" title="Twitter Profile" />
-		</a>
-		<a href="https://plus.google.com/104853427339662862228?rel=author">
-			<img src="{{ BASE_PATH }}/assets/googleplus.svg" title="Google+ Profile" />
-		</a>
-	</p>
-</div>
+{% assign authorName = "Adrian Stabiszewski" %}		
+{% assign authorAvatar = "as-q.jpg" %}		
+{% assign authorPosition = "Web developer" %}		
+{% assign authorHome = "Untergruppenbach, Germany" %}		
+{% assign authorMail = "as<!--nospam@blockscanners123988.de-->&#64;grundid.de" %}		
+{% assign authorTwitter = "https://twitter.com/nitegate" %}
+{% assign authorGithub = "https://github.com/grundid" %}
+{% assign authorGPlus = "https://plus.google.com/104853427339662862228?rel=author" %}
