@@ -6,6 +6,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : OpenDataLab Blog
+url: http://blog.opendatalab.de
 tagline: Offene Daten und Software Hacking
 author :
   name : OpenDataLab

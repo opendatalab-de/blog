@@ -27,9 +27,9 @@
 <link href="{{ BASE_PATH }}{{ site.JB.rss_path }}" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
 
 {% if page.snapshot %}
-	<meta property="og:image" content="/assets/{{ page.snapshot }}"/>
+	<meta property="og:image" content="{{site.url}}/assets/{{ page.snapshot }}"/>
 {% else %}
-	<meta property="og:image" content="{{ ASSET_PATH }}/img/opendatalab-logo.svg"/>
+	<meta property="og:image" content="{{site.url}}{{ ASSET_PATH }}/img/opendatalab-logo.svg"/>
 {% endif %}
 </head>
 <body>
