@@ -6,3 +6,5 @@
 {% assign authorTwitter = "https://twitter.com/femeb" %}
 {% assign authorGithub = "https://github.com/felixebert" %}
 {% assign authorGPlus = "https://plus.google.com/118113541594905940051?rel=author" %}
+{% assign authorXing = "https://www.xing.com/profiles/Felix_Ebert2" %}
+{% assign authorLinkedIn = "https://de.linkedin.com/pub/felix-ebert/55/aba/a9a" %}
