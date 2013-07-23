@@ -25,7 +25,7 @@ Dort kamen immer wieder Fragen nach einem Vergleich mit anderen Gemeinden im Lan
 
 Die Flächen-Polygone der Gemeinden im Landkreis Heilbronn stammen von der [Open Data Seite des Bundesamts für Kartographie und Geodäsie](http://www.geodatenzentrum.de/geodaten/gdz_rahmen.gdz_div?gdz_spr=deu&gdz_akt_zeile=5&gdz_anz_zeile=0&gdz_unt_zeile=0&gdz_user_id=0). Dort haben wir die Geodaten der Verwaltungsgebiete 1:250.000 mit Einwohnerzahlen (Georeferenzierung UTM32, Inhalt Ebenen) heruntergeladen.
 
-Diese Geodaten haben wir mit folgendem Befehl in eine .geojson Datei umgewandelt:
+Diese Geodaten haben wir mit dem GDAL-Tool [ogr2ogr](http://www.gdal.org/ogr2ogr.html) in eine .geojson Datei umgewandelt:
 
 	ogr2ogr -f GeoJSON -s_srs epsg:25832 -t_srs epsg:4326 -simplify 20 gemeinden.geojson vg250_gem.dbf
 
