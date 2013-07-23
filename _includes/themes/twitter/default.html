@@ -29,10 +29,11 @@
 
 {% if page.snapshot %}
 	<meta property="og:image" content="{{site.url}}/assets/{{ page.snapshot }}"/>
+	<meta property="og:url" content="{{site.url}}{{ page.url }}/"/>
 {% else %}
 	<meta property="og:image" content="{{site.url}}{{ ASSET_PATH }}/img/opendatalab-logo-q.png"/>
+	<meta property="og:url" content="{{site.url}}{{ page.url }}"/>
 {% endif %}
-<meta property="og:url" content="{{site.url}}{{ page.url }}"/>
 <meta property="og:title" content="{{ page.title }}"/>
 {% if page.description %}
 <meta property="og:description" content="{{ page.description }}"/>
