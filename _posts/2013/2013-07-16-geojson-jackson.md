@@ -1,6 +1,6 @@
 ---
 title: GeoJson POJOs for Jackson
-description: Java-Library for parsing and writing GeoJson using Jackson annotations
+description: Java-Library for parsing and writing GeoJson using Jackson annotations. Easy mapping of GeoJson objects to Java objects.
 tagline: Parse and write GeoJson from Java
 layout: post
 category : hack
@@ -11,9 +11,9 @@ snapshot: geojson-jackson-q.jpg
 ---
 
 As a result of our latest project I've extracted a small set of Java Objects that can easily be serialized 
-and deserialized into GeoJson files using the Jackson JSON parser library. The java objects are quite 
-optimized and use the Jackson annotations to identify the different types of GeoJson objects. 
-This way you can save the "type" property within every object. The Jackson parser will automatically 
+and deserialized into [GeoJson](http://www.geojson.org) files using the [Jackson JSON parser](http://jackson.codehaus.org/) library.
+The java objects are quite optimized and use the Jackson annotations to identify the different types of GeoJson objects. 
+This way you can save the "type" property within every object. On export the Jackson parser will automatically 
 insert the type property based on the Java class name.
 
 Without the GeoJson POJOs you would have to let Jackson parse the contents of a geojson file 
@@ -25,8 +25,8 @@ into HashMaps which I previously did like this:
 
 After this you have to typecast every property and dive from HashMap into HashMap. 
 
-Using the above library it is much easier. If you know what kind of data you expect from a 
-geojson file you can directly parse the data:
+Using the above library the mapping is much easier. Here are two examples how you read GeoJson data.
+If you know what kind of data you expect from a GeoJson file you can directly parse the data:
 
 	FeatureCollection featureCollection = 
 	new ObjectMapper().readValue(inputStream, FeatureCollection.class);
