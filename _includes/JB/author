@@ -25,6 +25,12 @@
 			<a href="{{ authorGPlus }}">
 				<img src="{{ BASE_PATH }}/assets/googleplus.svg" title="Google+ Profile" />
 			</a>
+			<a href="{{ authorXing }}">
+				<img src="{{ BASE_PATH }}/assets/xing.svg" title="Xing Profile" />
+			</a>
+			<a href="{{ authorLinkedIn }}">
+				<img src="{{ BASE_PATH }}/assets/linkedin.svg" title="LinkedIn Profile" />
+			</a>
 		</p>
 	</div>
 </div>

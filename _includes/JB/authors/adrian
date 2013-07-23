@@ -6,3 +6,5 @@
 {% assign authorTwitter = "https://twitter.com/nitegate" %}
 {% assign authorGithub = "https://github.com/grundid" %}
 {% assign authorGPlus = "https://plus.google.com/104853427339662862228?rel=author" %}
+{% assign authorXing = "https://www.xing.com/profiles/Adrian_Stabiszewski" %}
+{% assign authorLinkedIn = "http://de.linkedin.com/pub/adrian-stabiszewski/52/a71/b16/" %}
