@@ -4,7 +4,7 @@ title : RSS Feed
 ---
 
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
         <title>{{ site.title }}</title>
         <description>{{ site.tagline }}</description>
@@ -14,12 +14,20 @@ title : RSS Feed
         <ttl>1800</ttl>
 
 {% for post in site.posts %}
+	{% case post.author %}
+		{% when "adrian" %}
+		  {% include JB/authors/adrian %}
+		{% when "felix" %}
+		  {% include JB/authors/felix %}
+	{% endcase %}
+
         <item>
                 <title>{{ post.title }}</title>
                 <description>{{ post.content | xml_escape }}</description>
                 <link>{{ site.production_url }}{{ post.url }}</link>
                 <guid>{{ site.production_url }}{{ post.id }}</guid>
                 <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
+				<dc:creator>{{ authorName }}</dc:creator>
         </item>
 {% endfor %}
 
