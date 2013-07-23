@@ -17,9 +17,11 @@ So können unter anderem die Gewerbesteuerzahlen, die Hebesätze, Verkehrsunfall
 Die Motivation für diese Visualisierung war die Bürgerbeteiligung [Stadtentwicklung Neckarsulm 2030](http://www.neckarsulm.de/main/unser-neckarsulm/stadtentwicklung-2030.html), bei der ich an zwei Planungswerkstätten teilgenommen habe.
 Dort kamen immer wieder Fragen nach einem Vergleich mit anderen Gemeinden im Landkreis auf - zum Beispiel in Bezug auf Erholungsfläche (Parks), Pendlerzahlen und Einwohnerzahlen. Mit Hilfe einer Visualisierung wie dieser könnten zukünftig solche Fragen leichter beantwortet und Zusammenhänge einfacher erfasst werden.
 
-<iframe src="http://opendatalab.de/heilbronn-regionalstatistik" width="100%" height="500"> </iframe>
+Auf nachfolgender Karte kann jede Gemeinde angeklickt und der ausgewählte Datensatz (z.B. Gewerbesteuereinnahmen) eingesehen werden. Über die Auswahl "vergleichen mit" kann man optional den gewählten Datensatz mit einem anderen Datensatz wie zum Beispiel "Einwohnerzahl" vergleichen. 
 
-[Fullscreen](http://opendatalab.de/heilbronn-regionalstatistik)
+Falls Ihnen der nachfolgende Kartenausschnitt zu klein ist, können Sie die [Vollbild-Version](http://opendatalab.de/heilbronn-regionalstatistik) verwenden.
+
+<iframe src="http://opendatalab.de/heilbronn-regionalstatistik" width="100%" height="500"> </iframe>
 
 ### Wie wurde die Visualisierung erstellt?
 
