@@ -109,6 +109,10 @@ h2.first {
 	font-weight: bold;
 }
 
+h4 {
+	margin-top: 1.5em;
+}
+
 /* tag_box */
 .tag_box {
 	list-style: none;
@@ -155,5 +159,5 @@ h2.first {
 
 .content iframe {
 	border: 0;
-	margin-bottom: 1em;
+	margin: 1em 0;
 }
