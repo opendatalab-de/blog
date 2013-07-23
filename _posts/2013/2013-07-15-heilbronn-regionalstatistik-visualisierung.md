@@ -6,7 +6,7 @@ layout: post
 category : hack
 tags : [heilbronn, regionalstatistik, genesis]
 author: felix
-snapshot: heilbronn-regionalstatistik.png
+snapshot: heilbronn-regionalstatistik-q.jpg
 repository: https://github.com/opendatalab-de/gemeinde-api-mockup
 ---
 

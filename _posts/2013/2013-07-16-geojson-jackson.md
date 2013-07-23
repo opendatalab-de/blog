@@ -7,7 +7,7 @@ category : hack
 tags : [opensource, geojson, english]
 author: adrian
 repository: https://github.com/opendatalab-de/geojson-jackson
-snapshot: geojson-jackson.jpg
+snapshot: geojson-jackson-q.jpg
 ---
 
 As a result of our latest project I've extracted a small set of Java Objects that can easily be serialized 

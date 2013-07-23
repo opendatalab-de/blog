@@ -6,7 +6,7 @@ layout: post
 category : hack
 tags : [hackday, energy]
 author: felix
-snapshot: energyhackday.png
+snapshot: energyhackday-q.jpg
 repository: https://github.com/felixebert/energyhack
 ---
 

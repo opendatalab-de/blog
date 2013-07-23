@@ -6,41 +6,48 @@ hideTitle: true
 ---
 {% include JB/setup %}
 
-<div class="row-fluid">
+<div class="row-fluid blog-post-list">
   <div class="span9">
-    {% for post in site.posts limit:3 %}
-      <section>
-        <h2{% if forloop.first %} class="first"{% endif %}>
-          <a href="{{ post.url }}">{{ post.title }}</a>
-        </h2>
-		<small><time datetime="{{ post.date | date: "%Y-%m-%dT%H:%M:%S" }}">{{ post.date | date_to_long_string }}</time></small>
-        
-        {% if post.snapshot %}
-          <p class="snapshot">
-            <a href="{{ post.url }}"><img src="/assets/{{ post.snapshot }}"></a>
-          </p>
-        {% endif %}
-        <p class="excerpt">
-          {{ post.content | strip_html | truncatewords: 40 }}
-        </p>
-        
-        <p class="more">
-          <a href="{{ post.url }}" title="Mehr lesen">Mehr lesen...</a>
-        </p>
+    {% for post in site.posts limit:5 %}
+      <section class="row-fluid">
+      		<div class="span4">
+		        {% if post.snapshot %}
+		          <p class="snapshot pull-left hidden-phone">
+		            <a href="{{ post.url }}"><img src="/assets/{{ post.snapshot }}"></a>
+		          </p>
+		        {% endif %}
+      		</div>
+      		<div class="span7">
+		        <h2{% if forloop.first %} class="first"{% endif %}>
+		          <a href="{{ post.url }}">{{ post.title }}</a>
+		        </h2>
+		        
+				<time datetime="{{ post.date | date: "%Y-%m-%dT%H:%M:%S" }}">{{ post.date | date_to_long_string }}</time>
+		        
+		        <p class="excerpt">
+		          {{ post.content | strip_html | truncatewords: 60 }}
+		        </p>
+		        
+		        <p class="more">
+		          <a href="{{ post.url }}" title="Mehr lesen">Mehr lesen ...</a>
+		        </p>
+     		</div>
       </section>
       
-      <div class="section-title">&nbsp;</div>
+      <hr />
     {% endfor %}
   </div>
-  <div class="span3 sidebar">
-  	<p><strong>Über diesen Blog</strong></p>
-  	<p>OpenDataLab.de ist ein Blog von Adrian Stabiszewski und Felix Ebert. 
-  	Wir sind zwei Softwareentwickler aus dem Raum Heilbronn (bei Stuttgart) und bloggen hier über unsere 
-  	aktuellen Projekte, Ideen und Events.</p>
-  	<p>Unser Hauptthemen sind OpenData, OpenStreetMap, Bürgerbeteiligung, NFC, 
-  	OpenSource und die Hackerszene in Heilbronn.</p>
-  	<br />
-  
-	{% include JB/posts_collate %}
+  <div class="span3">
+  	<div class="sidebar">
+	  	<p><strong>Über diesen Blog</strong></p>
+	  	<p>OpenDataLab.de ist ein Blog von Adrian Stabiszewski und Felix Ebert. 
+	  	Wir sind zwei Softwareentwickler aus dem Raum Heilbronn (bei Stuttgart) und bloggen hier über unsere 
+	  	aktuellen Projekte, Ideen und Events.</p>
+	  	<p>Unser Hauptthemen sind OpenData, OpenStreetMap, Bürgerbeteiligung, NFC, 
+	  	OpenSource und die Hackerszene in Heilbronn.</p>
+	  	<br />
+	  
+		{% include JB/posts_collate %}
+	</div>
   </div>
 </div>

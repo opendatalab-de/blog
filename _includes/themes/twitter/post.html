@@ -30,37 +30,39 @@
 			</ul>
 		</div>
 	</div>
-	<div class="span3 sidebar">
-		<small>
-			{% include JB/author %}
-		</small>
-		
-		<hr />
-
-		{% unless page.categories == empty %}
-		  <ul class="tag_box inline">
-		    <li><i class="icon-folder-open"></i></li>
-		    {% assign categories_list = page.categories %}
-		    {% include JB/categories_list %}
-		  </ul>
-		{% endunless %}  
-
-		{% unless page.tags == empty %}
-		  <ul class="tag_box inline">
-		    <li><i class="icon-tags"></i></li>
-		    {% assign tags_list = page.tags %}
-		    {% include JB/tags_list %}
-		  </ul>
-		{% endunless %}  
-
-		{% if page.repository %}
-		<hr />
-		    {% include JB/project_refs %}
-		{% endif %}  
-		
-		
-		<hr />
-		{% include JB/posts_collate %}
+	<div class="span3">
+		<div class="sidebar">
+			<small>
+				{% include JB/author %}
+			</small>
+			
+			<hr />
+	
+			{% unless page.categories == empty %}
+			  <ul class="tag_box inline">
+			    <li><i class="icon-folder-open"></i></li>
+			    {% assign categories_list = page.categories %}
+			    {% include JB/categories_list %}
+			  </ul>
+			{% endunless %}  
+	
+			{% unless page.tags == empty %}
+			  <ul class="tag_box inline">
+			    <li><i class="icon-tags"></i></li>
+			    {% assign tags_list = page.tags %}
+			    {% include JB/tags_list %}
+			  </ul>
+			{% endunless %}  
+	
+			{% if page.repository %}
+			<hr />
+			    {% include JB/project_refs %}
+			{% endif %}  
+			
+			
+			<hr />
+			{% include JB/posts_collate %}
+		</div>
 	</div>
 </div>
 
