@@ -1,7 +1,7 @@
 ---
 title: Recyclinghöfe und Müllabfuhrtermine visualisiert
 description: 
-tagline: viele Infos auf einen Blick
+tagline: Landkreis Heilbronn
 layout: post
 category : hack
 tags : [opensource, gemeinde, recycling]
@@ -40,21 +40,20 @@ Entstanden ist daraus die [Recycling-Map für den Landkreis Heilbronn](http://op
 
 [![Screenshot aus dem Projekt]({{ BASE_PATH }}/assets/recycling-map-voll.jpg "Screenshot aus dem Projekt")](http://opendatalab.de/recycling-map/)
 
-Auf einen Blick kann man hier alle Recyclinghöfe in seiner Umgebung sehen und in 
-welchen Gemeinden an welchen Tagen der Müll rausgefahren wird. Aufgrund diverser 
-Feiertagsverschiebungen und unterschiedlicher Zyklen bei der Restmüll- und Biomüllabfuhr 
+Auf einen Blick kann man hier alle Recyclinghöfe in seiner Umgebung sehen und anhand der Farbgebung der Gemeinden erkennen, 
+an welchen Tagen der Müll rausgefahren wird.
+Über einen Klick auf eine Gemeinde kann direkt die entsprechende PDF-Datei mit den genauen Müllabfuhrterminen geöffnet werden.
+
+Die Anzeige der Recyclinghöfe auf der rechten Seite zeigt alle Öffnungszeiten im Wochenverlauf an 
+und bietet somit einen einfachen Weg um seine Zeit in Bezug auf das Recycling zu organisieren.
+
+Interessant an der farblichen Darstellung der Restmüllabfuhr ist, dass man leicht 
+Gemeinde-Cluster erkennen kann, in denen die Leerung am selben Tag erfolgt.
+Aufgrund diverser Feiertagsverschiebungen und unterschiedlicher Zyklen bei der Restmüll- und Biomüllabfuhr 
 und der Tatsache, dass die Daten in ca. 46 PDF Dateien in einem bunten Kalender zerstreut sind, 
 haben wir die Darstellung nur auf den Wochentag der regelmäßigen Restmüllleerung begrenzt. 
 Das heißt, die farbliche Kennzeichnung der Gemeinde sagt aus, an welchem Wochentag 
 normalerweise die Leerung erfolgt.
-
-Interessant an der farblichen Darstellung der Restmüllabfuhr ist, dass man leicht 
-Gemeinde-Cluster erkennen kann, in denen die Leerung am selben Tag erfolgt. Dies ist 
-sicherlich sinnvoll um längere Anfahrtswege zu vermeiden und eine einfache Erkenntnis 
-aus dieser Art der Darstellung.
-
-Die Anzeige der Recyclinghöfe auf der rechten Seite zeigt alle Öffnungszeiten im Wochenverlauf an 
-und bietet somit einen einfachen Weg um seine Zeit in Bezug auf das Recycling zu organisieren.
 
 Dieses simple [Projekt](https://github.com/opendatalab-de/recycling-map) soll zeigen, wie man auf einfache Art und Weise den Zugang 
 zu Informationen im Bereich Recycling und Müllabfuhr verbessern kann. In Zukunft hoffen wir, 
