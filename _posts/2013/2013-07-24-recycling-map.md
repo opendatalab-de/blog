@@ -1,6 +1,6 @@
 ---
 title: Recyclinghöfe und Müllabfuhrtermine visualisiert
-description: 
+description: Visualisierung aller Öffnungszeiten der Recyclinghöfe in Heilbronn, farbliche Darstellung und Verlinkung der Müllabfuhrtermine in den einzelnen Gemeinden
 tagline: Landkreis Heilbronn
 layout: post
 category : hack
