@@ -35,7 +35,7 @@ Smartphones keine weiteren Erinnerungen angezeigt werden.
 
 Im Prinzip sind also die Daten vorhanden, nur leider nicht für jedermann 
 in maschinenlesbarer Form verfügbar. Mit ein wenig Aufwand haben wir uns vorgenommen 
-diese Informationen aufzubereiten und in einer einfachen Kartendarstellung zu präsentieren. 
+einen Teil dieser Informationen aufzubereiten und in einer einfachen Kartendarstellung zu präsentieren. 
 Entstanden ist daraus die [Recycling-Map für den Landkreis Heilbronn](http://opendatalab.de/recycling-map/).
 
 <iframe src="http://opendatalab.de/recycling-map" width="100%" height="500"> </iframe>
@@ -52,8 +52,6 @@ Gemeinde-Cluster erkennen kann, in denen die Leerung am selben Tag erfolgt.
 Aufgrund diverser Feiertagsverschiebungen und unterschiedlicher Zyklen bei der Restmüll- und Biomüllabfuhr 
 und der Tatsache, dass die Daten in ca. 46 PDF Dateien in einem bunten Kalender zerstreut sind, 
 haben wir die Darstellung nur auf den Wochentag der regelmäßigen Restmüllleerung begrenzt. 
-Das heißt, die farbliche Kennzeichnung der Gemeinde sagt aus, an welchem Wochentag 
-normalerweise die Leerung erfolgt.
 
 Dieses simple [Projekt](https://github.com/opendatalab-de/recycling-map) soll zeigen, wie man auf einfache Art und Weise den Zugang 
 zu Informationen im Bereich Recycling und Müllabfuhr verbessern kann. In Zukunft hoffen wir, 
