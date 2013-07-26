@@ -21,7 +21,7 @@ Auf nachfolgender Karte kann jede Gemeinde angeklickt und der ausgewählte Daten
 
 Falls Ihnen der nachfolgende Kartenausschnitt zu klein ist, können Sie die [Vollbild-Version](http://opendatalab.de/heilbronn-regionalstatistik) verwenden.
 
-<iframe src="http://opendatalab.de/heilbronn-regionalstatistik" width="100%" height="500"> </iframe>
+<iframe src="http://opendatalab.de/heilbronn-regionalstatistik/" width="100%" height="500"> </iframe>
 
 ### Wie wurde die Visualisierung erstellt?
 

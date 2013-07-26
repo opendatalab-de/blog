@@ -13,7 +13,7 @@ repository: https://github.com/felixebert/energyhack
 Auf dem [Energyhackday in Berlin](http://energyhack.de/) habe ich zusammen mit [Michael Hörz](http://www.michael-hoerz.de/) eine [Visualisierung der Verbrauchsdaten der Berliner Bezirke](http://felixebert.de/energyhackday) entwickelt.
 Mit dieser Visualisierung kann schnell der Verlauf des Stromverbrauchs (und der Stromerzeugung) der Berliner Bezirke über einen Tag hinweg eingesehen werden.
 
-<iframe src="http://felixebert.de/energyhackday" width="100%" height="600"> </iframe>
+<iframe src="http://felixebert.de/energyhackday/" width="100%" height="600"> </iframe>
 
 Die aktuellen Daten zum Energieverbrauch der Bezirke werden von Stromnetz Berlin in 15-Minuten Intervallen über eine [Web-API](http://www.netzdaten-berlin.de/web/guest/suchen/-/details/web-service-last-und-erzeugung-berlin) bereitgestellt. Leider ist der Datenabruf noch etwas mühsam, da momentan jeder Bezirk nur einzeln abgefragt werden kann, die API auf XML basiert und der Response der Web-API keine [CORS-Header](http://enable-cors.org/server.html) mitschickt.
 
