@@ -38,7 +38,7 @@ in maschinenlesbarer Form verfügbar. Mit ein wenig Aufwand haben wir uns vorgen
 diese Informationen aufzubereiten und in einer einfachen Kartendarstellung zu präsentieren. 
 Entstanden ist daraus die [Recycling-Map für den Landkreis Heilbronn](http://opendatalab.de/recycling-map/).
 
-[![Screenshot aus dem Projekt]({{ BASE_PATH }}/assets/recycling-map-voll.jpg "Screenshot aus dem Projekt")](http://opendatalab.de/recycling-map/)
+<iframe src="http://opendatalab.de/recycling-map" width="100%" height="500"> </iframe>
 
 Auf einen Blick kann man hier alle Recyclinghöfe in seiner Umgebung sehen und anhand der Farbgebung der Gemeinden erkennen, 
 an welchen Tagen der Müll rausgefahren wird.
