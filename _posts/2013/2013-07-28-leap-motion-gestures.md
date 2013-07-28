@@ -1,7 +1,7 @@
 ---
 title: Leap Motion Controller Gestures
 description: Short overview of the gestures in the JavaScript API for the Leap Montion Controller
-tagline: First steps towards minority report
+tagline: First steps toward minority report
 layout: post
 category: learning
 tags: [leapmotion, english]
@@ -29,6 +29,9 @@ simulate touch/mouse events.
 Unfortunately this does not work very reliably. Since you are interacting with an invisible surface it is 
 quite easy to generate events and gestures that are unintentional. It is especially frustrating to 
 see a swipe gesture to end up as a drag and drop of some of your desktop files into the recycle bin.
+
+<iframe width="640" height="480" src="//www.youtube.com/embed/vBrhL5WFOx8?rel=0" frameborder="0" allowfullscreen="allowfullscreen">
+</iframe>
 
 Anyway, I still think that this device has huge potential. Since it is a 3D controller maybe it is a 
 wrong approach to use it to control a 2D surface. Also I think we should think of new gestures that suit 
