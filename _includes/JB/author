@@ -27,5 +27,10 @@
 			</a>
 		</p>
 	</div>
+	{% if authorBio %}
+	<div class="author-bio" itemprop="description">
+		{{ authorBio }}
+	</div>
+	{% endif %}
 </div>
 	
