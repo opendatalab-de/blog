@@ -1,5 +1,5 @@
 ---
-title: GeoJson Utilites für den Export von Verwaltungsgrenzen
+title: GeoJson Utilities für den Export von Verwaltungsgrenzen
 description: Export von Gemeinde-, Landkreis- und Bundeslandgrenzen ins GeoJson Format inkl. Fläche und Einwohnerzahlen
 tagline: 
 layout: post
@@ -20,17 +20,18 @@ Land- und Wasserflächen Deutschlands und das ist nicht immer das was man brauch
 
 In diesem Zusammenhang und für zukünftige Visualisierungen haben wir eine WebApp entwickelt, 
 die es uns langfristig erlauben wird schnell und mit wenigen Clicks, die benötigten Daten 
-zusammenzustellen. Auf der Webseite der GeoJson Utilities sieht man auf einen Blick alle 
+zusammenzustellen. Auf der [Webseite der GeoJson Utilities](http://opendatalab.de/projects/geojson-utilities/) 
+sieht man auf einen Blick alle 
 Landkreise und kreisfreie Städte und kann sie je nach Wunsch auswählen. Danach kann mit 
 einem Click eine GeoJson Datei mit den entsprechenden Gemeindegrenzen, Landkreisgrenzen 
 oder Bundeslandgrenzen erstellt werden.
 
 Für spezielle Auswertungen haben wir auch die neusten Einwohnerzahlen vom statistischen 
 Bundesamt in die GeoJson Daten integriert. Da die Daten vom Geodatenzentrum die Flächen 
-der Gemeinden und Landkreise bereits enthalten lassen sich somit sehr schnell Daten 
+der Gemeinden und Landkreise bereits enthalten, lassen sich somit sehr schnell Daten 
 visualisieren und pro Einwohner bzw. pro Fläche umrechnen.
 
-Um die Funktionalität für den Anfang abzurunden ist es auch möglich bereits vorhandene 
+Um die Funktionalität für den Anfang abzurunden, ist es auch möglich bereits vorhandene 
 GeoJson Dateien in dem Tool zu visualisieren. Dazu genügt es einfach die GeoJson Datei 
 in das Browserfenster zu ziehen und schon werden die Daten aus der Datei auf der Karte 
 dargestellt. Da hierbei kein Upload der Daten erfolgt, können auf diese Weise sehr schnell 
