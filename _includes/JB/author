@@ -1,9 +1,3 @@
-{% case page.author %}
-	{% when "adrian" %}
-	  {% include JB/authors/adrian %}
-	{% when "felix" %}
-	  {% include JB/authors/felix %}
-{% endcase %}
 <div class="author" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
 	<div class="clearfix">
 		<img src="{{ BASE_PATH }}/assets/{{ authorAvatar }}" class="author-img" />

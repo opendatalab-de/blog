@@ -165,3 +165,12 @@ h4 {
 .snapshot img {
 	width: 100% !important;
 }
+
+.author-bio {
+	font-style: italic;
+	font-size: 0.8em;
+	border: 1px solid #eee;
+	border-radius: 3px;
+	padding: 5px;
+	width: 80%
+}

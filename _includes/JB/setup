@@ -19,4 +19,10 @@
       {% capture ASSET_PATH %}{{ BASE_PATH }}/assets/themes/{{ page.theme.name }}{% endcapture %}
     {% endif %}  
   {% endif %}
+  {% case page.author %}
+	{% when "adrian" %}
+	  {% include JB/authors/adrian %}
+	{% when "felix" %}
+	  {% include JB/authors/felix %}
+  {% endcase %}  
 {% endcapture %}{% assign jbcache = nil %}
