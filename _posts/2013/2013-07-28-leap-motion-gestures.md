@@ -37,7 +37,7 @@ Anyway, I still think that this device has huge potential. Since it is a 3D cont
 wrong approach to use it to control a 2D surface. Also I think we should think of new gestures that suit 
 the 3D environment and no try to simulate touch gestures on an invisible surface.
 
-To know more I looked at the API for the Leap Motion controller at [js.leapmotion.com](js.leapmotion.com). 
+To know more I looked at the API for the Leap Motion controller at [js.leapmotion.com](http://js.leapmotion.com). 
 It is a simple JavaScript API that you can use in your browser or from a node.js environment. 
 It uses a nice approach where it connects via a WebSocket to the device driver and transfers all the 
 relevant data in real time as JSON structures. The API web site shows [many examples](http://js.leapmotion.com/examples) 
