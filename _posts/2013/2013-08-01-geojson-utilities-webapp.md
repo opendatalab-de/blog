@@ -6,12 +6,13 @@ layout: post
 category: hack
 tags: [geojson, opendata]
 author: adrian
-repository: https://github.com/opendatalab/simple-geodata-selector
+repository: https://github.com/opendatalab-de/simple-geodata-selector
 snapshot: geojson-utilities-s.jpg
 ---
 
-Bei der Umsetzung von dem Finanzdatenvergleich für NRW haben wir recht viel Zeit mit der 
-Zusammenstellung und Konvertierung der notwendigen GeoDaten verbracht. Die vom Geodatenzentrum 
+Bei der Umsetzung von dem [Finanzdatenvergleich für NRW](https://kfd.piratenfraktion-nrw.de/) 
+haben wir recht viel Zeit mit der Zusammenstellung und Konvertierung der notwendigen GeoDaten verbracht. 
+Die vom [Geodatenzentrum](http://www.geodatenzentrum.de/geodaten/gdz_rahmen.gdz_div?gdz_spr=deu&gdz_akt_zeile=5&gdz_anz_zeile=0&gdz_user_id=0) 
 bereitgestellten Daten sind im sogenannten Shape-Format (SHP) und damit nicht im webtauglichen 
 Format wie GeoJson vorhanden. Die reine Konvertierung der Daten von einer SHP-Datei zu einer 
 GeoJson Datei ist recht leicht mit GDAL Tools möglich, jedoch enthalten die SHP Dateien alle 
@@ -35,7 +36,7 @@ in das Browserfenster zu ziehen und schon werden die Daten aus der Datei auf der
 dargestellt. Da hierbei kein Upload der Daten erfolgt, können auf diese Weise sehr schnell 
 auch recht große GeoJson Dateien visualisiert werden.
 
-[![Screenshot aus dem Projekt]({{ BASE_PATH }}/assets/geojson-utilities.jpg "Screenshot aus dem Projekt")](http://opendatalab.de/projects/geodata-selector/)
+[![Screenshot aus dem Projekt]({{ BASE_PATH }}/assets/geojson-utilities.jpg "Screenshot aus dem Projekt")](http://opendatalab.de/projects/geojson-utilities/)
 
 Wir hoffen, dass dieses Tool vielen Entwicklern bei Hackathons und OpenData Days den 
 Zugriff auf die entsprechenden Grenzflächen vereinfacht und es ihnen erlaubt direkt 
