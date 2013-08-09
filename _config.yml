@@ -8,6 +8,7 @@ pygments: true
 title : OpenDataLab Blog
 url: http://blog.opendatalab.de
 tagline: Offene Daten und Software Hacking
+timezone: Europe/Berlin
 author :
   name : OpenDataLab
 

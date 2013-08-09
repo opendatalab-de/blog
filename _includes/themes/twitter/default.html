@@ -41,10 +41,17 @@
 </head>
 <body>
 	<div class="container">
+		<div class="header">
+        <ul class="nav nav-pills pull-right">
+          <li><a href="/rss.xml">RSS</a></li>
+          <li><a href="/imprint.html">Impressum</a></li>
+        </ul>
 		<a class="brand" href="/">
 			<img src="{{ ASSET_PATH }}/img/opendatalab-logo.svg" class="logo" rel="image_src" />
 			OpenDataLab
 		</a>
+      </div>	
+	
 		
 		{{ content }}
 		
