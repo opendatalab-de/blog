@@ -40,7 +40,7 @@ unique index on the id row of the object.
 Since most of my OSM functions are now part of 
 the [osm-tools library](https://github.com/grundid/osm-tools) I also added this sync framework 
 to this library. It can be found in the [osm-tools-process module](https://github.com/grundid/osm-tools/tree/master/osm-tools-process) in the package org.osmtools.osmchange.
-To use the framework you have to three things. First decide how and where you want to sore your 
+To use the framework you have to do three things. First decide how and where you want to sore your 
 current sequence number. For this I created the [SequenceHandler](https://github.com/grundid/osm-tools/blob/master/osm-tools-process/src/main/java/org/osmtools/osmchange/SequenceHandler.java) 
 interface with a [SimpleFileSequenceHandler](https://github.com/grundid/osm-tools/blob/master/osm-tools-process/src/main/java/org/osmtools/osmchange/SimpleFileSequenceHandler.java) 
 default implementation. This implementation stores your current sequence number in a file. 
@@ -56,11 +56,13 @@ and override the createRelation method.
 
 The third thing is to wire everything up. In my case this looks like this:
 
-	SequenceHandler sequenceHandler = new SimpleFileSequenceHandler(new File(args[0]));
-	OsmChangeService osmChangeService = new RelationOsmChangeService();
-	RestOperations restOperations = new RestTemplate();
-	OsmChangeSyncService osmChangeSyncService = new OsmChangeSyncService(Granularity.hour, restOperations, osmChangeService, sequenceHandler);
-	osmChangeSyncService.run();
+	public static void main(String[] args) {
+		SequenceHandler sequenceHandler = new SimpleFileSequenceHandler(new File(args[0]));
+		OsmChangeService osmChangeService = new RelationOsmChangeService();
+		RestOperations restOperations = new RestTemplate();
+		OsmChangeSyncService osmChangeSyncService = new OsmChangeSyncService(Granularity.hour, restOperations, osmChangeService, sequenceHandler);
+		osmChangeSyncService.run();
+	}
 
 There is one more thing. Since the OSM-Change files (osc) are packed with GZip some extra wiring 
 is needed. As you can see I’m using the RestTemplate from the Spring Framework. 
@@ -80,7 +82,6 @@ takes about 2-3 sec and is acceptable as server load.
 
 I hope this simple overview will encourage you to take a look at the 
 [osm-tools library](https://github.com/grundid/osm-tools) and help you implement 
-your own sync functions for OSM. You can find the binary release on the osm-tools library in 
+your own sync functions for OSM. You can find the binary release of the osm-tools library in 
 [maven central](http://search.maven.org/#search|ga|1|g%3A%22de.grundid.osmtools%22). 
 Please use at least use version 1.0.M7.
-
