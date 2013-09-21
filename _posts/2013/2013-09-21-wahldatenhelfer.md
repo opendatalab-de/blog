@@ -1,5 +1,5 @@
 ---
-title: "Wahl.Daten.Helfer Hackday am Sonntag in Ulm"
+title: "Wahl.Daten.Helfer Hackday in Ulm"
 description: "Hackday zur Bundestagswahl 2013 im Freiraum, c/o Radio FreeFM, Platzgasse 18, 89073 Ulm - Wahl.Daten.Helfer"
 tagline: "Apps, Viz und Hacks zur Wahl 2013"
 layout: post
