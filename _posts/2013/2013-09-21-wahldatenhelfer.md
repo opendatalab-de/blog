@@ -16,7 +16,8 @@ Ich plane momentan, ein Tool zur Visualisierung von Ergebnissen je Wahllokal / j
 
 Daneben fände ich interessant, die Ergebnisse der Wahlbezirke (Wahlbeteiligung sowie Zweitstimmen) mit anderen statistischen Daten wie Altersstruktur, Arbeitslosigkeit und Anzahl Mietwohnungen / Eigentumswohnungen zu vergleichen. Für Stuttgart könnte man dies dank umfangreich veröffentlichter [Wahldaten der letzten 3 Bundestagswahlen](http://www.stuttgart.de/wahldaten) direkt umsetzen.
 
-Eine Liste an offenen Wahldaten sowie Visualisierungsbeispiele findet ihr unter [lopad.org/wahllokalberlin](http://lopad.org/wahllokalberlin). Dort könnt ihr auch eigene Datensätze oder Visualisierungsbeispiele eintragen.  
+Eine Liste an offenen Wahldaten sowie Visualisierungsbeispiele findet ihr unter [lopad.org/wahllokalberlin](http://lopad.org/wahllokalberlin). Dort könnt ihr auch eigene Datensätze oder Visualisierungsbeispiele eintragen.
+Auch die [Liste an Ideen vom Wahl.Daten.Helfer-Hackday in Köln](http://wiki.koelnapi.de/w/Projektideen_f%C3%BCr_das_Wahlokal_K%C3%B6ln#Projektideen) ist sehenswert. 
 
 Ihr seid interessiert? Dann kommt am Sonntag von 12-20 Uhr zum [Freiraum](http://hackerspace-ulm.de/), c/o Radio FreeFM, Platzgasse 18, 89073 Ulm!
 Wenn ihr aus Heilbronn oder Stuttgart seid, könnt ihr gerne auch bei mir mitfahren - einfach kurz anschreiben.
