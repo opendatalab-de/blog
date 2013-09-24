@@ -22,5 +22,17 @@ Auch die [Liste an Ideen vom Wahl.Daten.Helfer-Hackday in Köln](http://wiki.koe
 Ihr seid interessiert? Dann kommt am Sonntag von 12-20 Uhr zum [Freiraum](http://hackerspace-ulm.de/), c/o Radio FreeFM, Platzgasse 18, 89073 Ulm!
 Wenn ihr aus Heilbronn oder Stuttgart seid, könnt ihr gerne auch bei mir mitfahren - einfach kurz anschreiben.
 
+* * *
 
-[![Logo Wahl.Daten.Helfer]({{ BASE_PATH }}/assets/wahldaten-200.png "Logo Wahl.Daten.Helfer")](http://wahldatenhelfer.de/)
+Ergebnisse des Hackdays:
+
+* Martin Salzer hat den [Korrelationskoeffizienten zwischen je 2 Parteien](http://blog.opendatalab.de/assets/wahldatenhelfer-ulm-korrelationen.pdf) über alle Wahlbezirke in Ulm hinweg für die Bundestagswahlen 2009 und 2013 ermittelt.
+
+* Michael Müller und ich haben eine [Direktkandidaten-Karte](http://www.ulmapi.de/direktkandidaten-map/) umgesetzt, mit der sich zum Beispiel beantworten lässt, wo die jüngsten Direktkandidaten zur Wahl stehen oder in welchen Wahlkreisen überwiegend Direktkandidatinnen zur Wahl stehen (relativ wenige).
+
+Eine Übersicht über alle Projekte auf den Wahl.Daten.Helfer-Hackdays findet ihr auf [hackdash.org](http://wahldaten.hackdash.org/) sowie auf [heise.de](http://www.heise.de/newsticker/meldung/Experimentieren-mit-Wahldaten-1964932.html).
+
+In Ulm habe ich zudem Michael Müller kennengelernt, der mit [differenziert.net](https://differenziert.net/de/) ähnliche Ziele wie ich mit Argufactum verfolgt.
+Vielleicht ergibt sich daraus noch eine Zusammenarbeit.
+
+Vielen Dank an Stefan Kaufmann und Martin Salzer für die Bereitstellung der Räumlichkeiten und die Organisation des Hackdays! 
