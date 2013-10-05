@@ -84,4 +84,4 @@ I hope this simple overview will encourage you to take a look at the
 [osm-tools library](https://github.com/grundid/osm-tools) and help you implement 
 your own sync functions for OSM. You can find the binary release of the osm-tools library in 
 [maven central](http://search.maven.org/#search|ga|1|g%3A%22de.grundid.osmtools%22). 
-Please use at least use version 1.0.M7.
+Please use at least version 1.0.M7.
