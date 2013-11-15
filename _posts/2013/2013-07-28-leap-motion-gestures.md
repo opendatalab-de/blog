@@ -5,7 +5,7 @@ tagline: First steps toward minority report
 layout: post
 category: learning
 tags: [leapmotion, english]
-author: adrian
+author: adrianenglish
 repository: https://github.com/grundid/lm-experiments
 snapshot: lm_hand.jpg
 ---

@@ -5,7 +5,7 @@ tagline:
 layout: post
 category: hack
 tags: [english, opensource, openstreetmap]
-author: adrian
+author: adrianenglish
 repository: https://github.com/grundid/osm-tools
 snapshot: osmsync.jpg
 ---

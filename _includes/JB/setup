@@ -22,6 +22,8 @@
   {% case page.author %}
 	{% when "adrian" %}
 	  {% include JB/authors/adrian %}
+	{% when "adrianenglish" %}
+	  {% include JB/authors/adrianenglish %}
 	{% when "felix" %}
 	  {% include JB/authors/felix %}
   {% endcase %}  

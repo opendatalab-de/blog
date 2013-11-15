@@ -1,0 +1,11 @@
+{% assign authorName = "Adrian Stabiszewski" %}		
+{% assign authorAvatar = "as-q.jpg" %}		
+{% assign authorPosition = "Web developer" %}		
+{% assign authorHome = "Untergruppenbach, Germany" %}		
+{% assign authorMail = "as<!--nospam@blockscanners123988.de-->&#64;grundid.de" %}		
+{% assign authorTwitter = "https://twitter.com/nitegate" %}
+{% assign authorGithub = "https://github.com/grundid" %}
+{% assign authorGPlus = "https://plus.google.com/104853427339662862228?rel=author" %}
+{% assign authorXing = "https://www.xing.com/profiles/Adrian_Stabiszewski" %}
+{% assign authorLinkedIn = "http://de.linkedin.com/pub/adrian-stabiszewski/52/a71/b16/" %}
+{% assign authorBio = "Adrian is a compassionate software developer since his early days. Java and JavaScript are the languages of his choice. Besides his business work he also works on open source projects in the field of Bluetooth Low Energy, NearFieldCommuniation, OpenStreetMap and OpenData. If his is not hacking at his workstation, he is burning calories on a mountain bike which in turn he refills with a delicious self-made pizza.<br/>The best way to contact Adrian is via Google+, where he regularly posts about his projects." %}

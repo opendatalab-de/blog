@@ -2,7 +2,7 @@
 	<div class="clearfix">
 		<img src="{{ BASE_PATH }}/assets/{{ authorAvatar }}" class="author-img" />
 		<p>
-			<strong itemprop="name">{{ authorName }}</strong><br />
+			<nobr><strong itemprop="name">{{ authorName }}</strong></nobr><br />
 			{{ authorPosition }}		
 		</p>
 		<p>

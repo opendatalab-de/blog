@@ -5,7 +5,7 @@ tagline:
 layout: post
 category: hack
 tags: [english, android]
-author: adrian
+author: adrianenglish
 snapshot: android.png
 ---
 

@@ -5,7 +5,7 @@ tagline: Parse and write GeoJson from Java
 layout: post
 category : hack
 tags : [opensource, geojson, english]
-author: adrian
+author: adrianenglish
 repository: https://github.com/opendatalab-de/geojson-jackson
 snapshot: geojson-jackson-q.jpg
 ---
