@@ -11,7 +11,7 @@ snapshot: hce.jpg
 ---
 
 With the new Host-based card emulation Android opened up a possibility for bidirectional peer-to-peer
-communication using NFC. Since I have access to a Nexus 5 and Nexus 7 both running Android 
+communication using NFC. Since I now have access to a Nexus 5 and Nexus 7 both running Android 
 Version 4.4 I gave it a try.
 
 Based on my [previous example using the ACR122 as the card reader](/hack/2013/11/07/android-host-card-emulation-with-acr122) 
@@ -20,8 +20,8 @@ I was able to quickly modify it to adapt to this new functionality.
 #### EnableReaderMode
 
 There are basically two things you have to do to be able to establish an bidirectional NFC connection.
-First, configure the host-based card emulation mode like described in one of my previous blog posts.
-Second, create an Activity that will [enable the new Reader-Mode in Android 4.4](http://developer.android.com/reference/android/nfc/NfcAdapter.html#enableReaderMode%28android.app.Activity,%20android.nfc.NfcAdapter.ReaderCallback,%20int,%20android.os.Bundle%29) 
+Firstly, configure the host-based card emulation mode like described in [one of my previous blog posts](/hack/2013/11/07/android-host-card-emulation-with-acr122).
+Secondly, create an Activity that will [enable the new Reader-Mode in Android 4.4](http://developer.android.com/reference/android/nfc/NfcAdapter.html#enableReaderMode%28android.app.Activity,%20android.nfc.NfcAdapter.ReaderCallback,%20int,%20android.os.Bundle%29) 
 and create a reader callback that will handle the discovered tag as an IsoDep tag.
 
 The code is really simple. For a full example, please have a look at the [github project](https://github.com/grundid/host-card-emulation-sample).
