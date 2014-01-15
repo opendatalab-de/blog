@@ -15,7 +15,7 @@ Tag veranstalten. Der Hackathon ist die perfekte Veranstaltung um sich mit dem T
 vertraut zu machen, an ein paar interessanten Datenvisualisierungen zu basteln und 
 Startup Ideen in der Region zu fördern.
 
-In unserer ersten Planning Session haben wir uns bereits folgende Datensätze und Ideen überlegt:
+In unserer ersten Planning Session mit [@remrow](https://twitter.com/remrow), [@stahlniel](https://twitter.com/stahlniel) und [@isa_mue](https://twitter.com/isa_mue) haben wir uns bereits über folgende Datensätze und Ideen ausgetauscht:
 
 * Parkplätze in HN
 * Stadtbahn, Fahrpläne HNV - Konzepte ausarbeiten
