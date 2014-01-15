@@ -40,7 +40,7 @@ Präsentation von der re:publica 2013:
 
 Die passenden Slides findet ihr hier: [OpenData und was hat das mit mir zu tun](https://speakerdeck.com/stefanw/open-data-und-was-hat-mit-mir-zu-tun)
 
-Wenn euch der Hackathon als Veranstaltung und OpenData als Thema interessiert, könnt ihr euch [hier anmelden](https://plus.google.com/u/0/events/cnekmn86bt9g41hsbrcordcgav4)
+Wenn euch der Hackathon als Veranstaltung und OpenData als Thema interessiert, könnt ihr euch [bei Google+ anmelden](https://plus.google.com/u/0/events/cnekmn86bt9g41hsbrcordcgav4) oder uns einfach per E-Mail oder Kommentar kontaktieren.
 
 Habt ihr vielleicht Kontakte zu den Behörden oder der Verwaltung? Dann versucht bitte 
 nachzufragen, ob ihr vielleicht Datensätze für den Hackathon bekommen könnt.
