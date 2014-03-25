@@ -30,7 +30,7 @@ Jede Kommune veröffentlicht die Analyseberichte ihres Trinkwassers in Mitteilun
 Teilweise konnten die Daten, wie im Fall von Heilbronn und Neckarsulm, immerhin gescraped werden.
 Bei vielen kleinen Landkreis-Kommunen mussten die Trinkwasseranalyse-Daten aber manuell in eine Excel-Datei übertragen werden.
 Eine große Anzahl der Kommunen mussten wir sogar erst kontaktieren, um noch unveröffentlichte Daten abzufragen. 
-Die Mühe hat sich jedoch gelohnt: Wir haben wir von fast allen Kommunen im Landkreis Heilbronn die Daten erhalten - nur drei fehlen noch.
+Die Mühe hat sich jedoch gelohnt: Wir haben von fast allen Kommunen im Landkreis Heilbronn die Daten erhalten - nur drei fehlen noch.
 
 Überraschend war für uns, wie unterschiedlich das Trinkwasser in der Region zusammengesetzt ist.
 Teilweise differiert der Mineraliengehalt innerhalb einer Ortschaft sehr stark - nämlich dann, wenn es verschiedene Versorgungsbereiche gibt.
