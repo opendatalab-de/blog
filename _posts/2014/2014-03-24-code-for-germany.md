@@ -14,7 +14,7 @@ Das Projekt wurde von der [Open Knowledge Foundation](http://okfn.de/2014/02/hal
 
 [![Code for Heilbronn Logo]({{ BASE_PATH }}/assets/cfg_hn.svg "Code for Heilbronn Logo")](http://codefor.de)
 
-Auftakt unseres lokalen <em>OK Lab</em> war der [Open Data Day in Heilbronn](http://localhost:4000/opendata/2014/01/15/opendataday-heilbronn/) am 22. Februar, bei dem wir drei spannende Projekte in die Wege geleitet haben:
+Auftakt unseres lokalen <em>OK Lab</em> war der [Open Data Day in Heilbronn](http://blog.opendatalab.de/opendata/2014/01/15/opendataday-heilbronn/) am 22. Februar, bei dem wir drei spannende Projekte in die Wege geleitet haben:
 * [Was steckt in meinem Leitungswasser?](http://opendatalab.de/projects/trinkwasser/)
 * [Wo wird am häufigsten eingebrochen?](http://opendata-heilbronn.github.io/crimemap/)
 * [Benachrichtung über Müllabfuhrtermine](http://recycling.gonam.de/kalender/)
