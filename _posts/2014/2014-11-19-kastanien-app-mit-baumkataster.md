@@ -11,7 +11,8 @@ snapshot: kastanien-app-s.png
 ---
 
 Vor ein paar Monaten hat die Stadt Hamburg auf ihrem [Transparenzportal](http://transparenz.hamburg.de/) das [Baumkataster]( http://suche.transparenz.hamburg.de/dataset/strassenbaumkataster-hamburg)
-als Open Data veröffentlicht. Passend zur Zeit der Herbstsparziergänge drängte sich uns die Idee einer Baum App auf,
+als Open Data veröffentlicht. Passend zur Zeit der Herbstsparziergänge drängte sich uns bei
+einem [Code For Heilbronn](http://codefor.de/heilbronn) Treff die Idee einer Baum App auf,
 um unterwegs leicht Kastanienbäume zu finden und deren Flüchte zu sammeln.
 
 Nachdem wir die Daten in das GeoJson Format konvertiert und sie kurz analysiert haben, stellten wir fest, dass
@@ -70,7 +71,7 @@ entwickeln, wie wir im Folgendem darstellen wollen.
 + Die verschiedenen Baumsorten können mit Artikeln in Wikipedia verknüpft werden und so weiterführende Informationen
  den Benutzern liefern
 
-+ Durch den Umfangreichen Datenbestand könnte die App den (Biologie-)Lehrern bei der
++ Durch den umfangreichen Datenbestand könnte die App den (Biologie-)Lehrern bei der
  Planung von Exkursionen behilflich sein.
 
 + Auch Baumpatenschaften wären einfach zu realisieren. Nutzer könnten sich als Paten für einen Baum registrieren und damit
@@ -84,7 +85,7 @@ entwickeln, wie wir im Folgendem darstellen wollen.
  auch direkt den Baumstamm zu messen. Diese Aufgaben könnten direkt bei den Details des Baums angezeigt werden (siehe Screenshot).
  Als Belohnung könnte man sich beispielsweise Kino-Gutscheine oder Ähnliches für die aktivsten Benutzer vorstellen.
 
-Diese Ideen sind nur ein kleiner Anfang. Zuerst wird es wichtig sein bis zum nächsten Herbst eine läuffähige App zu
+Diese Ideen sind nur ein kleiner Anfang. Zuerst wird es wichtig sein bis zum nächsten Herbst eine lauffähige App zu
 realisieren, die die Daten anzeigen und mit Bildern umgehen kann.
 
 Unser kleines Team wird sowohl das Backend als auch die Android und iOS App entwickeln. Wir freuen uns jedoch über weitere
