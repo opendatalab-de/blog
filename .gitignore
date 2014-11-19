@@ -12,3 +12,5 @@ Thumbs.db
 .project
 .settings
 _site
+
+atlassian-ide-plugin.xml
