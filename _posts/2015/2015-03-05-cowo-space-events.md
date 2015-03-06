@@ -18,7 +18,7 @@ Folgende Events stehen bereits fest:
 
 * 12.03.2015: Git + GitHub Workshop für Einsteiger
 * 19.03.2015: Code for Heilbronn mit Special Guest [Drew](http://www.codeforamerica.org/people/drew-wilson/) von [Code for America](http://www.codeforamerica.org/)
-* 22.04.2015: AngularJS Workshop für Einsteiger
+* 23.04.2015: AngularJS Workshop für Einsteiger
 
 Einen Abend im Monat treffen wir uns speziell für den Zweck, im Rahmen von [Code for Heilbronn](http://codefor.de/heilbronn) Open Data Projekte umzusetzen.
 
