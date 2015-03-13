@@ -24,6 +24,9 @@ Als Erstes kann man sagen, dass das Baumkataster insgesamt 43605 Bäume umfasst.
 1653 Nadelbäume und 5638  Obstbäume untergliedert. 497 Bäume werden unter der Kategorie "Baumgruppe" geführt.
 Hier sind mehrere gleichartige Bäume zusammengefasst.
 
+![Beispiel aus dem Baumkataster]({{ BASE_PATH }}/assets/baum_map2.png "Beispiel aus dem Baumkataster")
+
+
 ### Stadtteile
 
 Als nächstes habe ich einen Blick auf die Aufteilung zwischen den Stadtteilen geworfen. Hier zeigt sich, dass in der
