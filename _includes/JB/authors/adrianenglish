@@ -1,6 +1,6 @@
 {% assign authorName = "Adrian Stabiszewski" %}		
 {% assign authorAvatar = "as-q.jpg" %}		
-{% assign authorPosition = "Web developer" %}		
+{% assign authorPosition = "Lifestyle Entrepreneur" %}
 {% assign authorHome = "Untergruppenbach, Germany" %}		
 {% assign authorMail = "as<!--nospam@blockscanners123988.de-->&#64;grundid.de" %}		
 {% assign authorTwitter = "https://twitter.com/nitegate" %}
