@@ -66,7 +66,7 @@ Daten unter einer CC BY-SA Lizenz zur Verfügung gestellt. Wir rufen die Wetterv
 drei Tage ab und zeigen sie automatisch, wenn der Benutzer die App öffnet. Um alle drei Tage zu sehen, 
 genügt es den Screen einfach nach unten zu ziehen. 
 
-![App im Einsatz]({{ BASE_PATH }}/assets/bwapp/bwapp-wetter.jpg "Bad Wimpfen App")
+![App im Einsatz]({{ BASE_PATH }}/assets/bwapp/bwapp-wetter.jpg "Mocku-Template by https://dribbble.com/shots/1736601-6-Photorealistic-iPhone-6-mockups")
 
 ### Fazit
 
