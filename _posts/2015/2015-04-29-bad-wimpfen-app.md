@@ -81,4 +81,5 @@ Die hier gezeigte App ist für das iPhone entwickelt worden und hat den Namen "M
 eingereicht und erwarten, dass sie bis zur KW20 von Apple freigeschaltet wird. Eine Android Version ist bereits in Planung
 und wird je nach verfügbaren Resourcen umgesetzt.
 
-Die App wurde von [Christian](http://appproject.de/) und [Adrian](http://grundid.de) entwickelt. 
+Die App wurde von [Christian](http://appproject.de/) und [Adrian](http://grundid.de) im
+[Coworking Heilbronn](http://coworking-heilbronn.org/) entwickelt. 
