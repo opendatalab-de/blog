@@ -9,7 +9,7 @@ author: adrian
 snapshot: mein-badwimpfen.png
 ---
 
-Der Markt der CityApps ist sehr groß. Fast jede größere Stadt und vor allem Touristenorte bieten in den Apps Stores
+Der Markt der CityApps ist sehr groß. Fast jede größere Stadt und vor allem Touristenorte bieten in den App Stores
 eigene Apps an, die den Besucher über das Geschehene vor Ort informieren sollen. Einige Softwarehersteller bieten
 mittlerweile diese Apps von der Stange an, die einen Mix aus einer Webseite und einiger nativer Funktionen darstellen.
 Über die Herkunft und Aktualität der Inhalte wird selten ein Wort gesagt. Ob es die Location noch gibt und ob sie offen 
@@ -24,7 +24,7 @@ drei Themen: Events, Locations und Sehenswürdigkeiten.
 
 Den aktuellen Eventkalender haben wir von der Stadt Bad Wimpfen kostenlos und als Open Data zur Verfügung 
 gestellt bekommen. Dies erlaubt uns alle Daten uneingeschränkt in die App einzubauen und zu verwenden. Wir 
-aktualisieren die Daten alle 24h und bieten den Benutzen damit einen topaktuellen Eventkalender direkt in der App 
+aktualisieren die Daten alle 24h und bieten den Benutzern damit einen topaktuellen Eventkalender direkt in der App 
 an. Wo das Event stattfindet kann sofort auf der Karte auf dem Smartphone nachgeschaut werden und bei 
 Bedarf kann dahin navigiert werden. Mit nur einem Klick wird der Termin in den eigenen Terminkalender übernommen. 
 Alle Details, wie Start- und Endzeit, der Ort und die Beschreibung werden direkt im Terminkalender angezeigt.
@@ -52,7 +52,7 @@ Unser City Guide listet auch eine Auswahl an den bekanntesten Sehenswürdigkeite
 bis hin zur Stadtkirche sind alle Attraktionen enthalten. Alle Sehenswürdigkeiten werden mit Bild gezeigt.
 Eine Karte mit Satelitenansicht ist ebenfalls vorhanden und erlaubt die Orientierung innerhalb der Stadt.
 Zu den meisten Gebäuden haben wir eine Beschreibung und das Baujahr hinzugefügt.
-Als Quelle für die Inhalten haben wir auf die Wikipedia zurückgegriffen. Dort wird eine umfangreiche [Liste 
+Als Quelle für die Inhalte haben wir auf Wikipedia zurückgegriffen. Dort wird eine umfangreiche [Liste 
 aller Sehenswürdigkeiten und Denkmale](http://de.wikipedia.org/wiki/Liste_der_Kulturdenkmale_in_Bad_Wimpfen) 
 in Bad Wimpfen gepflegt.
 
@@ -70,7 +70,7 @@ genügt es den Screen einfach nach unten zu ziehen.
 
 ### Fazit
 
-Dieses Projekt hat mal wieder gezeigt, dass mit etwas Wille und den entsprechenden Partnern 
+Dieses Projekt hat mal wieder gezeigt, dass mit etwas Willen und den entsprechenden Partnern 
 ([Thomas Michl](https://twitter.com/thomas_michl)) bei der Stadt
 es doch möglich ist Open Data Projekte umzusetzen. Wir hoffen auf weitere Kooperationen und möchten auch in Zukunft die 
 App weiter entwickeln.
