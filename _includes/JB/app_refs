@@ -1,0 +1,7 @@
+<div class="project-refs">
+	{% if page.appstore %}
+		<a href="{{page.appstore}}">
+			<img src="{{ BASE_PATH }}/assets/app-store-badge.svg" title="App Store" style="140px" />
+		</a>
+	{% endif %}
+</div>

@@ -52,14 +52,17 @@
 			    {% assign tags_list = page.tags %}
 			    {% include JB/tags_list %}
 			  </ul>
-			{% endunless %}  
-	
+			{% endunless %}
+
 			{% if page.repository %}
 			<hr />
-			    {% include JB/project_refs %}
-			{% endif %}  
-			
-			
+			{% include JB/project_refs %}
+			{% endif %}
+			{% if page.appstore || page.googleplay %}
+			<hr />
+			{% include JB/app_refs %}
+			{% endif %}
+
 			<hr />
 			{% include JB/posts_collate %}
 		</div>
