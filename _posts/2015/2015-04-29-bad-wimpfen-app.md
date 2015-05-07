@@ -6,7 +6,7 @@ layout: post
 category: opendata
 tags: []
 author: adrian
-appstore: https://itunes.apple.com/de/app/mein-bad-wimpfen/id989719442
+appstore: https://itunes.apple.com/app/apple-store/id989719442?pt=74937800&ct=ODL&mt=8
 snapshot: mein-badwimpfen.png
 ---
 
@@ -21,7 +21,7 @@ seinen Terminkalender anzubieten.
 Wir von [Code For Heilbronn](http://codefor.de/heilbronn/) haben uns was anderes überlegt und in 
 Zusammenarbeit mit der [Stadt Bad Wimpfen](http://www.badwimpfen.de) einen
 einfachen aber auch gleichzeitig coolen City Guide für Bad Wimpfen entwickelt.
-[Unser City Guide (App Store)](https://itunes.apple.com/de/app/mein-bad-wimpfen/id989719442) basiert auf 
+[Unser City Guide (App Store)](https://itunes.apple.com/app/apple-store/id989719442?pt=74937800&ct=ODL&mt=8) basiert auf 
 drei Themen: Events, Locations und Sehenswürdigkeiten.
 
 Den aktuellen Eventkalender haben wir von der Stadt Bad Wimpfen kostenlos und als Open Data zur Verfügung 
@@ -80,11 +80,11 @@ Für uns war die Arbeit an dem Projekt sehr lehrreich. Wir haben eine neue Sprac
 App eine gute Basis für weitere Projekte geschaffen. 
 
 Die hier gezeigte App ist für das iPhone entwickelt worden und 
-unter dem Namen ["Mein Bad Wimpfen" im App Store verfügbar](https://itunes.apple.com/de/app/mein-bad-wimpfen/id989719442).
+unter dem Namen ["Mein Bad Wimpfen" im App Store verfügbar](https://itunes.apple.com/app/apple-store/id989719442?pt=74937800&ct=ODL&mt=8).
 Eine Android Version ist bereits in Planung
 und wird je nach verfügbaren Resourcen umgesetzt.
 
 Die App wurde von [Christian](http://appproject.de/) und [Adrian](http://grundid.de) im
 [Coworking Heilbronn](http://coworking-heilbronn.org/) entwickelt. 
 
-[![App Store]({{ BASE_PATH }}/assets/app-store-badge.svg "App Store")](https://itunes.apple.com/de/app/mein-bad-wimpfen/id989719442)
+[![App Store]({{ BASE_PATH }}/assets/app-store-badge.svg "App Store")](https://itunes.apple.com/app/apple-store/id989719442?pt=74937800&ct=ODL&mt=8)
