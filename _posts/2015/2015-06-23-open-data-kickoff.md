@@ -9,7 +9,7 @@ author: felix
 snapshot: cfg_hn.svg
 ---
 
-Nach Anregung einer Stadträtin laden wir von Code for Heilbronn am 01. Juli 2015 um 18 Uhr zu einer Open Data Auftaktveranstaltung in den Coworking Space ein.
+Nach Anregung einer Stadträtin laden wir von Code for Heilbronn am 01. Juli 2015 um 18 Uhr zu einer Open Data Auftaktveranstaltung in den [Coworking Space](http://coworking-heilbronn.org/) ein.
 
 Mit dieser Veranstaltung wollen wir insbesondere die Stadträte von Heilbronn über das Thema Open Data informieren und anschließend gemeinsam ins Gespräch kommen. 
 
@@ -26,4 +26,4 @@ Wir werden im Anschluss die gezeigten Präsentationen auch als Unterstützung f�
 
 Ich habe zudem kurzerhand [ein Etherpad](https://pad.opendatacity.de/p/OK-Lab-HN-Kickoff) erstellt, in dem du zusätzliche Anregungen sowie ggf. Datenwünsche eintragen kannst. 
 
-Du möchtest auch teilnehmen? Dann melde dich bitte per E-Mail an info@opendatalab.de oder über die [Event-Seite des Coworking-Space](http://goo.gl/jcSxNY) an.
+Du möchtest auch teilnehmen? Dann melde dich bitte per E-Mail an info<!--nospam@blockscanners123988.de-->&#64;opendatalab.de oder über die [Event-Seite des Coworking-Space](http://coworking-heilbronn.org/events/open-data-kickoff/) an.
