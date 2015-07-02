@@ -9,21 +9,19 @@ author: felix
 snapshot: cfg_hn.svg
 ---
 
-Nach Anregung einer Stadträtin laden wir von Code for Heilbronn am 01. Juli 2015 um 18 Uhr zu einer Open Data Informationsveranstaltung in den [Coworking Space](http://coworking-heilbronn.org/) ein.
+Am 01. Juli 2015 um 18 Uhr haben wir von Code for Heilbronn zu einer Open Data Informationsveranstaltung in den [Coworking Space](http://coworking-heilbronn.org/) eingeladen.
 
-Mit dieser Veranstaltung wollen wir insbesondere die Stadträte von Heilbronn über das Thema Open Data informieren und anschließend gemeinsam ins Gespräch kommen. 
+Insgesamt hatten wir 20 Teilnehmer, darunter auch einige Stadträte aus Heilbronn und Neckarsulm.
 
-Geplantes Programm:
+Die Rückmeldungen waren sehr positiv und vielversprechend - unsere Hoffnung, dass sich beim Thema Open Data in der Region Heilbronn etwas bewegt, ist auf jedenfall gestiegen :)
 
-* Begrüßung & Was ist Open Data? (Felix Ebert, Adrian Stabiszewski)
-* Erfahrungsbericht & Wissenstransfer aus Mannheim (Gerd Armbruster)
-* Bedeutung für die Hochschulen (Detlef Kreuz)
-* Praxisbeispiele in Heilbronn und Umgebung (Daniel Stahl)
-* Smartphone Apps aus der Community (Adrian Stabiszewski)
+Gezeigte Präsentationen & Programm:
+
+* [Begrüßung & Was ist Open Data? (Felix Ebert, Adrian Stabiszewski)](https://docs.google.com/presentation/d/1KhITDeAZTuwybBMhva7zAQ2lxYWdYHsx8s2uK_wwvEc/edit)
+* [Erfahrungsbericht & Wissenstransfer aus Mannheim (Gerd Armbruster)](http://www.gerd-armbruster.de/vortrag-open-data-projekt-stadt-mannheim/)
+* [Bedeutung für die Hochschulen (Detlef Kreuz)](https://drive.google.com/file/d/0B7EouLqvnvEhX0gwUGhDT3pQaFU/view)
+* [Praxisbeispiele in Heilbronn und Umgebung (Daniel Stahl)](https://docs.google.com/presentation/d/17wOxJiALGDLl7l3gMRKQbSWisH47H80i5Azrcb2N0DE/edit)
+* [Smartphone Apps aus der Community (Adrian Stabiszewski)](http://localhost:4000/opendata/2015/04/29/bad-wimpfen-app/)
 * ab 19:00 Uhr: Diskussion & Hands on
 
-Wir werden im Anschluss die gezeigten Präsentationen auch als Unterstützung für die Teilnehmer hier veröffentlichen.
-
-Ich habe zudem [ein Etherpad](https://pad.opendatacity.de/p/OK-Lab-HN-Kickoff) erstellt, in dem du zusätzliche Anregungen sowie ggf. Datenwünsche eintragen kannst. 
-
-Du möchtest auch teilnehmen? Dann melde dich bitte per E-Mail an info<!--nospam@blockscanners123988.de-->&#64;opendatalab.de oder über die [Event-Seite des Coworking-Space](http://coworking-heilbronn.org/events/open-data-kickoff/) an.
+Einen besonderen Dank an [Gerd Armbruster](https://twitter.com/gerd_armbruster), [Tanja Sagasser](https://twitter.com/tanjasagasser), [Detlef Kreuz](https://twitter.com/dkreuz) und [Daniel Stahl](https://twitter.com/stahlniel) für die tolle Unterstützung!
