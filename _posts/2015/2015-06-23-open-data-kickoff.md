@@ -22,7 +22,7 @@ Gezeigte Präsentationen & Programm:
 * [Bedeutung für die Hochschulen (Detlef Kreuz)](http://www.slideshare.net/implizit/20150701-180000-w3nopendatahochschulenpublic)
 * [Praxisbeispiele in Heilbronn und Umgebung (Daniel Stahl)](https://docs.google.com/presentation/d/17wOxJiALGDLl7l3gMRKQbSWisH47H80i5Azrcb2N0DE/edit)
 * [Smartphone Apps aus der Community (Adrian Stabiszewski)](http://blog.opendatalab.de/opendata/2015/04/29/bad-wimpfen-app/)
-* ab 19:00 Uhr: Diskussion & Hands on
+* ab 19:00 Uhr: Diskussion & Hands on der Projekte auf [codefor.de](http://codefor.de/heilbronn)
 
 Einen besonderen Dank an [Gerd Armbruster](https://twitter.com/gerd_armbruster), [Tanja Sagasser](https://twitter.com/tanjasagasser), [Detlef Kreuz](https://twitter.com/dkreuz) und [Daniel Stahl](https://twitter.com/stahlniel) für die tolle Unterstützung!
 
