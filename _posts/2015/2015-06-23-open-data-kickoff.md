@@ -19,9 +19,9 @@ Gezeigte Präsentationen & Programm:
 
 * [Begrüßung & Was ist Open Data? (Felix Ebert, Adrian Stabiszewski)](https://docs.google.com/presentation/d/1KhITDeAZTuwybBMhva7zAQ2lxYWdYHsx8s2uK_wwvEc/edit)
 * [Erfahrungsbericht & Wissenstransfer aus Mannheim (Gerd Armbruster)](http://www.gerd-armbruster.de/vortrag-open-data-projekt-stadt-mannheim/)
-* [Bedeutung für die Hochschulen (Detlef Kreuz)](https://drive.google.com/file/d/0B7EouLqvnvEhX0gwUGhDT3pQaFU/view)
+* [Bedeutung für die Hochschulen (Detlef Kreuz)](http://www.slideshare.net/implizit/20150701-180000-w3nopendatahochschulenpublic)
 * [Praxisbeispiele in Heilbronn und Umgebung (Daniel Stahl)](https://docs.google.com/presentation/d/17wOxJiALGDLl7l3gMRKQbSWisH47H80i5Azrcb2N0DE/edit)
-* [Smartphone Apps aus der Community (Adrian Stabiszewski)](http://localhost:4000/opendata/2015/04/29/bad-wimpfen-app/)
+* [Smartphone Apps aus der Community (Adrian Stabiszewski)](http://blog.opendatalab.de/opendata/2015/04/29/bad-wimpfen-app/)
 * ab 19:00 Uhr: Diskussion & Hands on
 
 Einen besonderen Dank an [Gerd Armbruster](https://twitter.com/gerd_armbruster), [Tanja Sagasser](https://twitter.com/tanjasagasser), [Detlef Kreuz](https://twitter.com/dkreuz) und [Daniel Stahl](https://twitter.com/stahlniel) für die tolle Unterstützung!
