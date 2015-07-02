@@ -1,5 +1,5 @@
 {% assign authorName = "Felix Ebert" %}
-{% assign authorAvatar = "felixebert-q.jpg" %}
+{% assign authorAvatar = "felixebert-q2.jpg" %}
 {% assign authorPosition = "Web developer" %}
 {% assign authorHome = "Neckarsulm, Germany" %}
 {% assign authorMail = "felix.ebert<!--nospam@blockscanners123988.de-->&#64;if-core.de" %}
