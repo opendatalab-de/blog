@@ -25,3 +25,6 @@ Gezeigte Präsentationen & Programm:
 * ab 19:00 Uhr: Diskussion & Hands on
 
 Einen besonderen Dank an [Gerd Armbruster](https://twitter.com/gerd_armbruster), [Tanja Sagasser](https://twitter.com/tanjasagasser), [Detlef Kreuz](https://twitter.com/dkreuz) und [Daniel Stahl](https://twitter.com/stahlniel) für die tolle Unterstützung!
+
+![Kickoff]({{ BASE_PATH }}/assets/kickoff.jpg "Open Data Kickoff")
+
