@@ -1,7 +1,12 @@
 <div class="project-refs">
 	{% if page.appstore %}
 		<a href="{{page.appstore}}">
-			<img src="{{ BASE_PATH }}/assets/app-store-badge.svg" title="App Store" style="140px" />
+			<img src="{{ BASE_PATH }}/assets/app-store-badge.svg" title="App Store" class="store-badge" style="width:140px" />
+		</a>
+	{% endif %}
+	{% if page.googleplay %}
+		<a href="{{page.googleplay}}">
+			<img src="{{ BASE_PATH }}/assets/google-play-badge.svg" title="Play Store" class="store-badge" style="width:140px" />
 		</a>
 	{% endif %}
 </div>

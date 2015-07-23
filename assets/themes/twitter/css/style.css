@@ -170,3 +170,7 @@ h4 {
 	font-style: italic;
 	font-size: 0.8em;
 }
+
+.store-badge {
+	padding: 8px;
+}

@@ -3,7 +3,7 @@ title: Mein Bad Wimpfen - die Bad Wimpfen App
 description: Ein City Guide mit Open Data
 tagline:
 layout: post
-category: opendata
+category: opendata, apps
 tags: []
 author: adrian
 appstore: https://itunes.apple.com/app/apple-store/id989719442?pt=74937800&ct=ODL&mt=8
