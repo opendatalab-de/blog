@@ -3,8 +3,8 @@ title: Mehr Apps für die Region - Erlenbacher Weinfest App
 description: Ein Update zur aktuellen Entwicklung von Apps für die Region Heilbronn. 
 tagline:
 layout: post
-category: opendata, apps
-tags: []
+category: apps
+tags: [apps, opendata]
 author: adrian
 appstore: https://itunes.apple.com/app/apple-store/id940194602?mt=8
 googleplay: https://play.google.com/store/apps/details?id=de.grundid.erlenbachweinfest
