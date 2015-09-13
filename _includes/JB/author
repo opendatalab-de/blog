@@ -6,6 +6,9 @@
 			{{ authorPosition }}		
 		</p>
 		<p>
+			{% if authorCompany %}
+			<a href="{{ authorCompanyUrl }}">{{ authorCompany }}</a>
+			{% endif %}
 			{{ authorHome }}<br />
 			{{ authorMail }}
 		</p>
