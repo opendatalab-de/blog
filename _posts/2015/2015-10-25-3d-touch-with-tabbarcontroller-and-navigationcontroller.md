@@ -29,17 +29,17 @@ First let's have a look at our definition in the Info.plist file. Here we use th
 encode the tab number and the first segue to perform. We decided not to use the UIApplicationShortcutItemUserInfo dictionary 
 for this kind of data because this should contain user data for dynamic quick actions.
 
-{% highlight xml %}
+{% highlight xml linenos %}
 
-    <key>UIApplicationShortcutItems</key>
-	<array>
-		<dict>
-			<key>UIApplicationShortcutItemTitle</key>
-			<string>Action Title</string>
-			<key>UIApplicationShortcutItemType</key>
-			<string>tab1:segueName</string>
-		</dict>
-	</array>
+<key>UIApplicationShortcutItems</key>
+<array>
+    <dict>
+        <key>UIApplicationShortcutItemTitle</key>
+        <string>Action Title</string>
+        <key>UIApplicationShortcutItemType</key>
+        <string>tab1:segueName</string>
+    </dict>
+</array>
 
 {% endhighlight %}
 
@@ -48,28 +48,28 @@ Since we have a fixed hierarchy in our app and use a schema for the ShortcutItem
 implementation that opens a specific tab and if a segue is part of the type string also performs the segue on the first
 controller.
 
-{% highlight objective-c %}
+{% highlight objective-c linenos %}
 
-    - (void)application:(UIApplication *)application performActionForShortcutItem:(UIApplicationShortcutItem *)shortcutItem completionHandler:(void (^)(BOOL))completionHandler {
+- (void)application:(UIApplication *)application performActionForShortcutItem:(UIApplicationShortcutItem *)shortcutItem completionHandler:(void (^)(BOOL))completionHandler {
     
-        UITabBarController *rootController = (UITabBarController *)self.window.rootViewController;
-    
-        NSString *type = shortcutItem.type;
-        NSArray *types = [type componentsSeparatedByString:@":"];
-    
-        NSString *tabNo = [((NSString*)types[0]) substringFromIndex:3];    
-        [rootController setSelectedIndex:tabNo.integerValue];
-        UINavigationController *navController = rootController.selectedViewController;
-        [navController popToRootViewControllerAnimated:false];
-    
-        if ([types count] > 1) {
-            NSString *segue = (NSString*)types[1];
-            if (segue != nil) {
-                UIViewController *firstViewController = navController.viewControllers[0];
-                [firstViewController performSegueWithIdentifier:segue sender:nil];
-            }
+    UITabBarController *rootController = (UITabBarController *)self.window.rootViewController;
+
+    NSString *type = shortcutItem.type;
+    NSArray *types = [type componentsSeparatedByString:@":"];
+
+    NSString *tabNo = [((NSString*)types[0]) substringFromIndex:3];    
+    [rootController setSelectedIndex:tabNo.integerValue];
+    UINavigationController *navController = rootController.selectedViewController;
+    [navController popToRootViewControllerAnimated:false];
+
+    if ([types count] > 1) {
+        NSString *segue = (NSString*)types[1];
+        if (segue != nil) {
+            UIViewController *firstViewController = navController.viewControllers[0];
+            [firstViewController performSegueWithIdentifier:segue sender:nil];
         }
     }
+}
 
 {% endhighlight %}
 
