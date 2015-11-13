@@ -16,22 +16,22 @@ im Landkreis abgetippt und in [maschinenlesbare Formate](http://recycling.gonam.
 in seinen digitalen Kalender auf dem PC oder Smartphone zu importieren um rechtzeitig an die Mülltonne erinnert zu werden.
 Das Landratsamt war leider nicht bereit uns die Daten in tabellarischer Form zu geben, so dass nur die händische Erfassung 
 der Termine aus den PDF-Dateien in Frage kam.
-Für 2015 haben wir den Aufwand dann gescheut, nachdem beim ersten Erfassen ein Team aus vier Personen den ganzen Tag 
-Termine abgetippt hat war es uns der Aufwand nicht wert.
-Doch wir lieben Daten und noch viel mehr das Programmieren und haben unendlich viel Spass dabei. Der nächste 
+
+Für 2015 haben wir den Aufwand gescheut, denn beim Erfassen der Daten im Jahr 2014 hat ein Team aus drei Personen den ganzen Tag 
+gebraucht um die Termine abzutippen. Doch wir lieben Daten und noch viel mehr lieben wir das Programmieren. Der nächste 
 digitale Terminkalender sollte unbedingt voll automatisch konvertiert werden.
 
-Als wir uns gestern Gedanken über den Coding-Abend im [Coworking Heilbronn](http://coworking-heilbronn.org) gemacht haben, kam uns die Idee für eine
+Als wir uns gestern Gedanken über den Coding-Abend im [Coworking Space Heilbronn](http://coworking-heilbronn.org) gemacht haben, kam uns die Idee für eine
 ganz einfache Programmieraufgabe, die wir gut als [Mob-Programming](https://en.wikipedia.org/wiki/Mob_programming) umsetzen können: Wir machen aus einer PDF-Datei
 eine Pixel-Grafik und suchen dann in dem Raster der Monate und Tage nach entsprechenden Farben (grau für Mülltonne, blau
-für Papiertonne). Aus unserer Position in der Grafik können wir ganz leicht den Tag des Monats errechnen, da alle Tage
+für Papiertonne usw.). Aus der Position der Farbe in der Grafik können wir ganz leicht den Tag des Monats errechnen, da alle Tage
 dieselbe Zeilenhöhe haben. So haben wir z.B. herausgefunden, dass der Tag eine Höhe von 22 Pixel hat und der Monat eine
 Breite von 145 Pixel (die Angaben hängen davon ab, wie die PDF skaliert wird).
 
 ![Beispiel]({{ BASE_PATH }}/assets/abfallkalender-beispiel.png "Beispiel")
 
 Danach konnten wir mit einfachen Schleifen eine Zeile nach der anderen abscannen und die gewünschten Farben identifizieren.
-Dasselbe haben wir dann für die zweite Seite gemacht und dann natürlich auch für die über 50 Abfallkalender aus 
+Dasselbe haben wir dann für die zweite Seite gemacht (pro Seite gibt es sechs Monate) und dann natürlich auch für die über 50 Abfallkalender aus 
 dem Landkreis.
 Am Ende kommen strukturierte Daten für alle Müllabfuhrbezirke, die man in beliebige andere Datenformate wie z.B. ical/ics konvertieren kann.
 
@@ -48,6 +48,7 @@ Hier ein Beispiel für einen Datensatz in Untergruppenbach:
 }
 {% endhighlight %}
 
-Die Programmieraufgabe hat ca. 2h gedauert und der Scanprozess läuft in wenigen Sekunden durch. [Anna, Ketoma, Felix 
-und ich](http://codefor.de/heilbronn/#members) hatten viel Spass und konnten auch einiges dabei lernen.
-Wir planen in Zukunft weitere [Open Data Mob-Programming](http://www.meetup.com/de/OK-Lab-Heilbronn) Sessions, schaut einfach vorbei.
+Die Programmieraufgabe hat ca. 2h gedauert und der Scanprozess läuft in wenigen Sekunden durch. Immer wieder abwechselnd am PC 
+haben [Anna, Ketoma, Felix und ich](http://codefor.de/heilbronn/#members) viel Spass und konnten auch einiges dabei lernen.
+Wir planen in Zukunft weitere [Open Data Mob-Programming](http://www.meetup.com/de/OK-Lab-Heilbronn) Sessions, 
+schaut einfach mal bei uns vorbei.
