@@ -4,7 +4,7 @@ description: Mit Mob-Programming zum digitalen Abfallkalender in Heilbronn
 tagline:
 layout: post
 category: opendata
-tags: []
+tags: [mobprogramming, opendata, event]
 author: adrian
 repository: https://github.com/opendata-heilbronn/garbage-collection
 snapshot: abfallkalender.png
