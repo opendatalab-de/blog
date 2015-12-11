@@ -86,3 +86,14 @@ This looks like this:
 I hope this example will allow you to write some awesome NFC apps. Please check the full 
 example at my [GitHub repo](https://github.com/grundid/host-card-emulation-sample) and 
 comment if you have any questions.
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Unter Blog Content Responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4734442255165118"
+     data-ad-slot="9649993785"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>

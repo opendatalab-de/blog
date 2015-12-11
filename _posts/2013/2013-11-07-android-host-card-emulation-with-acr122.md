@@ -185,6 +185,16 @@ The complete source code is in the [host-card-emulation-sample repository](https
 		}
 	}
 	
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Unter Blog Content Responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4734442255165118"
+     data-ad-slot="9649993785"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 #### Pitfalls
 
@@ -232,4 +242,14 @@ of the documentation.
 If you have any questions regarding nfctools please come by our 
 [discussion group](https://groups.google.com/forum/?fromgroups#!forum/nfc-developers).
 
-	
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Unter Blog Content Responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4734442255165118"
+     data-ad-slot="9649993785"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
