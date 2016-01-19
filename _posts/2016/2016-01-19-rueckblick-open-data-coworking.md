@@ -51,6 +51,7 @@ eingeladen, um dort die Projekte zu präsentieren und das weitere Vorgehen zu di
 hat die Stadt Mannheim ein eigenes [Open Data Portal](https://www.mannheim.de/stadt-gestalten/open-data).
 
 ![Cowo]({{ BASE_PATH }}/assets/jahr2015/jr_odd1.jpg )
+![Cowo]({{ BASE_PATH }}/assets/jahr2015/jr_odd2015_rathaus.jpg )
 
 ## Open Data Kick-Off
 
@@ -73,8 +74,7 @@ Mit der Eröffnung des Coworking Spaces hatten wir von Anfang an einen tollen Ra
 für Hardware- und Software-Enthusiasten einzurichten. Unter der [Meetup-Gruppe Code For Heilbronn]( http://www.meetup.com/codeforhn/) 
 haben wir seit der Eröffnung dieses Jahr mehr als 30 Coding Abende veranstaltet.
 Mit vielen zusätzlichen Workshops konnten wir einige Schüler und Studenten für mehr Softwareentwicklung 
-begeistern und ihnen etwas mehr Praxis beibringen. Daraus sind auch einige Projekte entstanden, die wir 
-im weiteren Teil vorstellen.
+begeistern und ihnen etwas mehr Praxis beibringen. Daraus sind auch einige neue Projekte entstanden und vorhandene weiterentwickelt worden. Eine Übersicht findet ihr auf der [Projekte-Seite von Code for Heilbronn](http://codefor.de/heilbronn#projects).
 
 
 Vielen Dank an [Code for Germany](http://codefor.de/) für die Unterstützung und [Drew](http://www.codeforamerica.org/people/drew-wilson/) 
@@ -103,8 +103,10 @@ Sponsoren [Lidl](http://www.it-bei-lidl.com/), [Fujitsu TDS](http://tds.fujitsu.
 
 Wir freuen uns bereits heute darauf, auch zur Code Week 2016 ein großes Programm in Heilbronn anzubieten.
 
+![Code Week]({{ BASE_PATH }}/assets/codeweek/android-1.jpg )
+![Code Week]({{ BASE_PATH }}/assets/codeweek/scratch-3.jpg )
 
-## Projekte
+## Neue Projekte
 
 ### Mein Bad Wimpfen App
 In Zusammenarbeit mit dem Kulturamt in Bad Wimpfen haben wir im Mai 2015 die 
@@ -140,4 +142,5 @@ Die Drinker App ist gerade noch am entstehen. In dieser App wollen wir eine
 die dem Benutzer alle Getränke in einem Restaurant oder einer Bar anzeigt. Die Möglichkeiten 
 sind hier bei weitem noch nicht ausgeschöpft. 
 
-- Im Januar 2016 - Felix und Adrian 
+
+<small>im Januar 2016 - Felix und Adrian</small> 
