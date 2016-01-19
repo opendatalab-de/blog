@@ -6,7 +6,7 @@ layout: post
 category: opendata
 tags: [opendata, event]
 author: adrian
-snapshot: abfallkalender.png
+snapshot: rueckblick2015.jpg
 ---
 
 In unserem Bemühen, eine Tech-Community in Heilbronn zu fördern und offene Daten im Rahmen von Code 
