@@ -45,8 +45,7 @@ In einer groben Kalkulation gehen wir davon aus, dass wir ca. 8.000 EUR für den
 Farmbots brauchen, ca. 3.000-4.000 EUR entfallen dabei rein auf 
 die [benötigen Teile](https://farmbot-genesis.readme.io/docs/bill-of-materials).
 Alles weitere wird für die Organisation und Durchführung von Workshops und eventuellen Erweiterungen benötigt.
-Sollten wir den Code Week Award gewinnen, der mit max. 5.000 EUR dotiert ist, benötigen wir weiterhin Sponsoren, die das Projekt unterstützen wollen.
 
-Weitere Informationen zum Sponsoring und Unterstützung des Projekts erhaltet ihr bei Felix oder dei mir.
+Weitere Informationen zum Sponsoring und Unterstützung des Projekts erhaltet ihr bei Felix oder bei mir.
 
 Bildrechte: [Farmbot Inc. CC-BY 4.0](http://wiki.farmbot.cc/wiki/Open-source) 
