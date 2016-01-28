@@ -3,15 +3,20 @@ title: Code for BUGA Heilbronn
 description: Bewerbung für den CodeWeek Award mit Farmbot auf der BUGA Heilbronn 2019
 tagline:
 layout: post
-category: opendata
-tags: [opendata]
+category: codeforbuga
+tags: [opendata, event]
 author: adrian
 snapshot: buga-farmbot.jpg
 ---
 
-Im Rahmen unserer Bewerbung zum [CodeWeek Award](http://award.codeweek.de/) haben wir uns 
-überlegt den [Farmbot Genesis](https://farmbot.io) in einer Reihe von Workshops nachzubauen 
-und diesen auf der Bundesgartenschau zu zeigen.
+Mit [Code For Heilbronn](http://codefor.de/heilbronn) haben wir [letztes Jahr sehr viel erreicht](http://blog.opendatalab.de/opendata/2016/01/19/rueckblick-open-data-coworking/).
+Im Vorfeld der [Bundesgartenschau 2019 in Heilbronn](http://www.buga2019.de) wollen wir eine
+Reihe von Projekten umzusetzen, die im direkten Bezug zur BUGA stehen und unter dem Tag 
+"Code for BUGA Heilbronn" laufen sollen. 
+
+Das erste Projekt und gleichzeitig unsere Bewerbung zum [CodeWeek Award](http://award.codeweek.de/) soll der
+[Farmbot Genesis](https://farmbot.io) sein, den wir in einer Reihe von Workshops nachbauen 
+und diesen dann (wenn möglich) auf der Bundesgartenschau zeigen wollen.
 
 ![BugaFarmbot]({{ BASE_PATH }}/assets/code-for-buga-logo-wide.jpg )
 
