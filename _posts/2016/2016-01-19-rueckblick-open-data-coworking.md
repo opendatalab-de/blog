@@ -103,6 +103,8 @@ Sponsoren [Lidl](http://www.it-bei-lidl.com/), [Fujitsu TDS](http://tds.fujitsu.
 
 Wir freuen uns bereits heute darauf, auch zur Code Week 2016 ein großes Programm in Heilbronn anzubieten.
 
+[Weitere Bilder](http://blog.opendatalab.de/opendata/2016/01/18/code-week-2015/)
+
 ![Code Week]({{ BASE_PATH }}/assets/codeweek/android-1.jpg )
 ![Code Week]({{ BASE_PATH }}/assets/jahr2015/jr_codeweek_scratch.jpg )
 
