@@ -6,7 +6,7 @@ layout: post
 category: codeforbuga
 tags: [opendata, event]
 author: adrian
-snapshot: buga-farmbot.jpg
+snapshot: nodemcu_small.jpg
 ---
 
 Bei unseren [Workshops und Coding Abenden](https://meetup.com/codeforhn/) mit dem NodeMCU Board und der Arduino IDE haben wir in letzter Zeit viele Erfahrungen gesammelt,
