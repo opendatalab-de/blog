@@ -11,7 +11,7 @@ snapshot: baum_map.jpg
 
 Vor einigen Wochen haben wir vom Grünflächenamt das Baumkataster Heilbronns als Shape-Datei erhalten. Daraus konnten
 wir die einzelnen Baumdaten extrahieren und in eine GeoJson-Datei konvertieren. Die Idee ist eine
-[Kastanien-App]({% post_url /2014/2014-11-19-kastanien-app-mit-baumkataster %}) daraus
+[Kastanien-App]({% post_url 2014-11-19-kastanien-app-mit-baumkataster %}) daraus
 zu machen, die ich bereits in einem früheren Post beschrieben habe.
 Bevor wir jedoch mit der App richtig loslegen, wollte ich erstmal schauen, wie es mit den Heilbronner Bäumen aussieht
 und habe einige Auswertungen durchgeführt.
@@ -141,7 +141,7 @@ Ein weiteres Highlight der riesen Bäume ist die [Winter-Linde](http://de.wikipe
 Das Baumkataster ist eine interessante Datenbank über die Umwelt, die uns umgibt. Ich möchte mir diesen Sommer auf
 jeden Fall all die großen Bäume aus der Nähe anschauen. Auch einige Einzelstücke will ich mit dem Fahrrad anfahren und
 fotografieren. Diese Bilder sollen in die
-[Kastanien-App]({% post_url /2014/2014-11-19-kastanien-app-mit-baumkataster %}) einfliesen, die bereits in der Umsetzung ist.
+[Kastanien-App]({% post_url 2014-11-19-kastanien-app-mit-baumkataster %}) einfliesen, die bereits in der Umsetzung ist.
 Mit dieser App werden alle interessierten Bürger leicht Bäume in Heilbronn finden können.
 
 Alle Daten Stand: 27.11.2014, Quelle: Stadt Heilbronn, Grünflächenamt, 12/2014

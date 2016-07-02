@@ -10,7 +10,7 @@ repository: https://github.com/opendata-heilbronn/garbage-collection
 snapshot: abfallkalender.png
 ---
 
-Vor zwei Jahren haben wir beim ersten [Open Data Day 2014 in Heilbronn]({% post_url /2014/2014-01-15-opendataday-heilbronn %} ) 
+Vor zwei Jahren haben wir beim ersten [Open Data Day 2014 in Heilbronn]({% post_url 2014-01-15-opendataday-heilbronn %} ) 
 alle Müllabfuhrtermine aus den über 50 Abfallkalender
 im Landkreis abgetippt und in [maschinenlesbare Formate](http://recycling.gonam.de/kalender/) überführt. Dadurch war es dann möglich die Abfuhrtermine ganz einfach
 in seinen digitalen Kalender auf dem PC oder Smartphone zu importieren um rechtzeitig an die Mülltonne erinnert zu werden.

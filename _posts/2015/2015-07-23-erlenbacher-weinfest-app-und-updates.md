@@ -27,7 +27,7 @@ tollen Fest-Guide erstellen und freuen uns auf weitere Zusammenarbeit.
 ![Festübersicht]({{ BASE_PATH }}/assets/erlenbach-app1.png "Festübersicht")
 ![Programm]({{ BASE_PATH }}/assets/erlenbach-app2.png "Programm")
 
-Die Weiterentwicklung der [Mein Bad Wimpfen App]({% post_url /2015/2015-04-29-bad-wimpfen-app %}) geht ebenfalls weiter
+Die Weiterentwicklung der [Mein Bad Wimpfen App]({% post_url 2015-04-29-bad-wimpfen-app %}) geht ebenfalls weiter
 voran. Die bereits bekannten Bereiche Events, Locations und Sehenswürdigkeiten werden demnächst um 
 einen Bürgerkanal ergänzt. Hier wollen wir den Menschen vor Ort aktuelle Informationen aus der Gemeinde und dem 
 Landkreis Heilbronn zeigen. Als ersten Schritt werden wir in dem Bürgerkanal die aktuellen Sitzungsprotokolle des Gemeinderats
