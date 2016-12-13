@@ -222,6 +222,12 @@ Launch the examples with the following command:
 <iframe width="640" height="480" src="//www.youtube.com/embed/y_AYWqUtb_0?rel=0" frameborder="0" allowfullscreen="allowfullscreen">
 </iframe>
 
+<div>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gebasoftblog-21&marketplace=amazon&region=DE&placement=B00F91ONV2&asins=B00F91ONV2&linkId=a7c6a8d79b09ab31831943981e522bb9&show_border=true&link_opens_in_new_window=true"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gebasoftblog-21&marketplace=amazon&region=DE&placement=B00OZNMVDM&asins=B00OZNMVDM&linkId=535ab9fe4a9606c98aa0baa8a3f9d00f&show_border=true&link_opens_in_new_window=true"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gebasoftblog-21&marketplace=amazon&region=DE&placement=B01BTYD692&asins=B01BTYD692&linkId=d4dfdc9231079d82918f76e8f50e26b7&show_border=true&link_opens_in_new_window=true"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gebasoftblog-21&marketplace=amazon&region=DE&placement=B009D4ZX4C&asins=B009D4ZX4C&linkId=f78827709e2f84660f05b120ade77ef9&show_border=true&link_opens_in_new_window=true"></iframe>
+</div>
 	
 #### Conclusion
 
@@ -242,14 +248,3 @@ of the documentation.
 If you have any questions regarding nfctools please come by our 
 [discussion group](https://groups.google.com/forum/?fromgroups#!forum/nfc-developers).
 
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Unter Blog Content Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4734442255165118"
-     data-ad-slot="9649993785"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
