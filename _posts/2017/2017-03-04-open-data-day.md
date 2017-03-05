@@ -9,9 +9,9 @@ author: felix
 snapshot: odd-logo.png
 ---
 
-Am diesjährigen Open Data Day feiern wir mit Code for Heilbronn den 3. Geburtstag sowie den ersten Besuch der Open Data Beauftragten der Stadt, die auch die ersten offiziellen [offenen Daten der Stadt Heilbronn](https://github.com/opendata-heilbronn/daten-stadt-heilbronn) im Gepäck hatte. Daneben konnten wir auf [Daten von David Hilzendegen (HN Stimme)](https://github.com/dahilzen/Datensaetze-OpenDataDay17) zurückgreifen.
+Am diesjährigen Open Data Day feiern wir mit Code for Heilbronn den 3. Geburtstag sowie den ersten Besuch der Open Data Beauftragten der Stadt, die auch erste [offene Daten der Stadt Heilbronn](https://github.com/opendata-heilbronn/daten-stadt-heilbronn) im Gepäck hatte. Daneben konnten wir auf [Daten von David Hilzendegen (HN Stimme)](https://github.com/dahilzen/Datensaetze-OpenDataDay17) zurückgreifen.
 
-Auf dieser Grundlage ist einiges entstanden. Über 20 Teilnehmer haben mitgewirkt, 9 Projekte sind entstanden. Fast alle Datensätze, die erstmals bereitgestellt wurden, wurden auch direkt verwendet.
+Auf dieser Grundlage ist einiges entstanden. Über 20 Teilnehmer haben an insgesamt 9 Projekten mitgewirkt. Fast alle Datensätze, die erstmals bereitgestellt wurden, wurden auch direkt verwendet.
 
 Alle Projekte zum Nachlesen:
  
